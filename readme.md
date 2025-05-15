@@ -5,3 +5,4 @@ This repo manages the architecture files for SATRE. [Archi](https://www.archimat
 Collaboration and synchronisation of files can be done via the [coArchi tool](https://github.com/archimatetool/archi-modelrepository-plugin/wiki).
 
 Current version of the SATRE architecture is stored in the "master" branch. 
+
