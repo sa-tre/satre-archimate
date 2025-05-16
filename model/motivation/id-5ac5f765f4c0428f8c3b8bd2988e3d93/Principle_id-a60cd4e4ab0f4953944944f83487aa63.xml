@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principle 3 - Observability"
+    id="id-a60cd4e4ab0f4953944944f83487aa63"
+    documentation="Human initiated and automated processes resulting in change within the TRE should be observable."/>
