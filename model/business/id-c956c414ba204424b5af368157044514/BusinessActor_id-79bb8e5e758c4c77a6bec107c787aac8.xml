@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Information Asset Owner"
-    id="id-79bb8e5e758c4c77a6bec107c787aac8"/>
+    id="id-79bb8e5e758c4c77a6bec107c787aac8"
+    documentation="https://satre-specification.readthedocs.io/en/stable/roles.html#data-management-roles"/>

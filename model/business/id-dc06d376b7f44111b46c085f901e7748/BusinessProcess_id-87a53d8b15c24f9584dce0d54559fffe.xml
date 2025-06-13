@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vulnerability Scanning"
-    id="id-87a53d8b15c24f9584dce0d54559fffe">
+    name="2.5 Vulnerability Scanning"
+    id="id-87a53d8b15c24f9584dce0d54559fffe"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#vulnerability-scanning">
   <properties
       key="Capability 1"
       value="Vulnerability Management"/>

@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Information Governance"
-    id="id-c3371360f3154406b7e8d623657d0aa9">
+    name="1.0 Information Governance"
+    id="id-c3371360f3154406b7e8d623657d0aa9"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html">
   <properties
       key="Pillar"
       value="Information Governance"/>

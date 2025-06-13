@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Training Management and Delivery"
-    id="id-71885afea55f413d9498c33a8d88f782">
+    name="1.6 Training Management and Delivery"
+    id="id-71885afea55f413d9498c33a8d88f782"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#training-delivery-and-management">
   <properties
       key="Pillar"
       value="Information Governance"/>

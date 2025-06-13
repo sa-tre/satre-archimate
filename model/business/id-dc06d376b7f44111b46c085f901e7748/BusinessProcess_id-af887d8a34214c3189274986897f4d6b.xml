@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Control Process"
+    name="1.1 Control Process"
     id="id-af887d8a34214c3189274986897f4d6b"
-    documentation="Information Governance">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#controls">
   <properties
       key="Capability 1"
       value="Information Governance"/>

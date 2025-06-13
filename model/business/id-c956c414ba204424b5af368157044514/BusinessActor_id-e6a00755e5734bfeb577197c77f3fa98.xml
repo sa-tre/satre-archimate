@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Information Governance"
-    id="id-e6a00755e5734bfeb577197c77f3fa98"/>
+    id="id-e6a00755e5734bfeb577197c77f3fa98"
+    documentation="Current mismatch"/>

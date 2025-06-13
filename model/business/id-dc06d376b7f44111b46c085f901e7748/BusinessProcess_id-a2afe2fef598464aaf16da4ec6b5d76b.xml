@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Change Process"
+    name="2.2 Change Process"
     id="id-a2afe2fef598464aaf16da4ec6b5d76b"
-    documentation="Computing Technology and Information Governance">
+    documentation="[various] https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#infrastructure-deployment-process">
   <properties
       key="Capability 1"
       value="Infrastructure Management"/>

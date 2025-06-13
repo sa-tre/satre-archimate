@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SATRE Application Component"
-    id="id-4a0a200051d64010af09dea5416954da"/>
+    id="id-4a0a200051d64010af09dea5416954da"
+    documentation="https://satre-specification.readthedocs.io/en/stable/architecture.html"/>

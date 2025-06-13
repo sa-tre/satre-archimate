@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Developer"
-    id="id-159078645921478181fb02d7fce92663"/>
+    id="id-159078645921478181fb02d7fce92663"
+    documentation="https://satre-specification.readthedocs.io/en/stable/roles.html#infrastructure-management-roles"/>

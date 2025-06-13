@@ -1,8 +1,8 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Advanced or Cluster Computing Technology Service"
+    name="2.1 Advanced or Cluster Computing Technology Service"
     id="id-d3286be00d0c400a8bfb2186117c57cd"
-    documentation="Computing Technology">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#advanced-computing-systems">
   <properties
       key="Capability 1"
       value="End user computing"/>

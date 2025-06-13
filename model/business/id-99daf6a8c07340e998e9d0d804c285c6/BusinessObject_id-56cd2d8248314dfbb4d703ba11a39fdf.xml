@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Training Records"
+    name="1.2 Training Records"
     id="id-56cd2d8248314dfbb4d703ba11a39fdf"
-    documentation="Information Governance">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#quality-management-data">
   <properties
       key="Capability 1"
       value="Training Management and Delivery"/>

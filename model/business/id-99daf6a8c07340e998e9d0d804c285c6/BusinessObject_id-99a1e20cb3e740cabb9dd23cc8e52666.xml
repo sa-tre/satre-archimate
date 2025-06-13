@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Encryption Keys"
-    id="id-99a1e20cb3e740cabb9dd23cc8e52666">
+    name="2.5 Encryption Keys"
+    id="id-99a1e20cb3e740cabb9dd23cc8e52666"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#encryption">
   <properties
       key="Capability 1"
       value="Encryption"/>

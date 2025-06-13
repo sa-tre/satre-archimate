@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Study Manager"
-    id="id-8ee98f9e5c94401d920261c6da89403a"/>
+    id="id-8ee98f9e5c94401d920261c6da89403a"
+    documentation="https://satre-specification.readthedocs.io/en/stable/roles.html#project-roles"/>

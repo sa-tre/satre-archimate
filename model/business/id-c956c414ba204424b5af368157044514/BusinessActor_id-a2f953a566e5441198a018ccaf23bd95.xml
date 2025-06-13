@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="TRE Operator/ Developer"
-    id="id-a2f953a566e5441198a018ccaf23bd95"/>
+    name="TRE Builder / Developer"
+    id="id-a2f953a566e5441198a018ccaf23bd95"
+    documentation="https://satre-specification.readthedocs.io/en/stable/roles.html#infrastructure-management-roles"/>

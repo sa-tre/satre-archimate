@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="End User Computing"
-    id="id-f64670d71bc64e849d73876b60433e72">
+    name="2.1 End User Computing"
+    id="id-f64670d71bc64e849d73876b60433e72"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#end-user-computing">
   <properties
       key="Pillar"
       value="Computing Technology"/>

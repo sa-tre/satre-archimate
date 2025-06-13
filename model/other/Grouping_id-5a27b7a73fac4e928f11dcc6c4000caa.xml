@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Quality Management Data"
-    id="id-5a27b7a73fac4e928f11dcc6c4000caa"/>
+    id="id-5a27b7a73fac4e928f11dcc6c4000caa"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#quality-management-data"/>

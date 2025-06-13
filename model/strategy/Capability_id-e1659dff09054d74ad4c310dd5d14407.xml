@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SATRE Pillar Capability"
-    id="id-e1659dff09054d74ad4c310dd5d14407"/>
+    id="id-e1659dff09054d74ad4c310dd5d14407"
+    documentation="https://satre-specification.readthedocs.io/en/stable/architecture.html"/>

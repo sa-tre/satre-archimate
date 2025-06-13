@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Legal Advisory"
-    id="id-faa6441c79ba4d0eb55f8fba5faf4d89"/>
+    name="4.9 Legal Services"
+    id="id-faa6441c79ba4d0eb55f8fba5faf4d89"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/supporting.html#legal-services"/>

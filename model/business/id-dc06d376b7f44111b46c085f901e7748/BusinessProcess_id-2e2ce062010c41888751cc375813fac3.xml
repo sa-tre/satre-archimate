@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Resource Allocation Process"
+    name="1.1 Resource Allocation Process"
     id="id-2e2ce062010c41888751cc375813fac3"
-    documentation="Information Governance">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#resource-allocation-process">
   <properties
       key="Capability 1"
       value="Information Governance"/>

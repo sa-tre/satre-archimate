@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Software Tools"
+    name="2.1 End user software tools"
     id="id-e69599a8b2094ecaaba8657779893596"
-    documentation="Computing Technology">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#end-user-software-tools">
   <properties
       key="Capability 1"
       value="End user computing"/>
