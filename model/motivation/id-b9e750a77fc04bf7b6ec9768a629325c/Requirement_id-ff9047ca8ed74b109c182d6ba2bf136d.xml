@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.1.5. - Enforce Data Egress Governance"
+    id="id-ff9047ca8ed74b109c182d6ba2bf136d"
+    documentation="You must have a data egress process which enforces information governance rules/processes."/>

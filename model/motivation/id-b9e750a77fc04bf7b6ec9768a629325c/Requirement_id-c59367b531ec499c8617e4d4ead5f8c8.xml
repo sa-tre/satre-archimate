@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.6. - Scan for Infrastructure Vulnerabilities"
+    id="id-c59367b531ec499c8617e4d4ead5f8c8"
+    documentation="You should have an application in place to scan for vulnerabilities across infrastructure."/>

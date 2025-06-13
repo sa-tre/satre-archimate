@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.9. - Mitigate Risks from Telemetry-Based Software"
+    id="id-2c2dd37a9ebc4db4ba61d994ff26d361"
+    documentation="You must mitigate and record any risks introduced by the use in your TRE of software that requires telemetry to function."/>

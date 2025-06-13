@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.8.2. - Publish TRE Operations &amp; Data Info"
+    id="id-102376b49a154e8ea7c5951b8aed795a"
+    documentation="Details of TRE operations, data available and projects which have accessed the data should be publicly available (*optional for TREs without personal data)."/>

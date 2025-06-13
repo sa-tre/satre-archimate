@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.5.1. - Define TRE Data Categories"
+    id="id-ca6e6525d931428d8c6d3fe7be5dcbcb"
+    documentation="You must be able to specify what categories of data your TRE is able to support."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.2.10. - Restrict Project Connectivity"
+    id="id-1a032687b2ce4a719b923e9dc82343fe"
+    documentation="Your TRE must not allow connectivity between users in different projects, or with access to different datasets."/>

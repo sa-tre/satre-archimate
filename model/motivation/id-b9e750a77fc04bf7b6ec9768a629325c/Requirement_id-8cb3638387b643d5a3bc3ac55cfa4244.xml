@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.2.13. - Monitor Network"
+    id="id-8cb3638387b643d5a3bc3ac55cfa4244"
+    documentation="You should regularly monitor the network configuration of your TRE to check for misconfigurations and vulnerabilities."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.1.6. - Limit Egress Access"
+    id="id-79d2260f9cb24f178766616ae5891b73"
+    documentation="Egress must be limited to the information asset owners or their delegates."/>

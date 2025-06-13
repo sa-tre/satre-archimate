@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.1.7. - Independent Egress Approval"
+    id="id-c8f5115bf9294b6c8f4777e570b0a7ab"
+    documentation="Your data egress process could sometimes require project-independent approval."/>

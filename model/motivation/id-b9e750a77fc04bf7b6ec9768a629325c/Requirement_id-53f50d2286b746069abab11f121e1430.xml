@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.10. - Update Security Controls Based on Tests"
+    id="id-53f50d2286b746069abab11f121e1430"
+    documentation="You should update the security controls of your TRE based on the results of security tests."/>

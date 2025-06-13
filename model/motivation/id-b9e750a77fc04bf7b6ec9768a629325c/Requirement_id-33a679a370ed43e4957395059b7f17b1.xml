@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.6. - Apply Automatic Security Updates"
+    id="id-33a679a370ed43e4957395059b7f17b1"
+    documentation="Your TRE should, where possible, automatically apply security related updates for user software."/>

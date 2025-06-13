@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.5.3. - Manage Access with Identity Services"
+    id="id-02a33cafadb14abab53d6e3ff2cf166e"
+    documentation="You must have a set of services to manage access to resources based on identity."/>

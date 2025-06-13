@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.2.1. - Restrict Shared User Accounts"
+    id="id-23b606bdccf642edab68c14585ee008d"
+    documentation="You must not create user accounts for use by more than one person."/>

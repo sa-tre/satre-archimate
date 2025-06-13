@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.4.5. - Implement Workflow Automation Portal"
+    id="id-16c0318611514e9faa4c9e6ad5b64c92"
+    documentation="You could implement a portal that can provide a workflow engine and database which automates the processes within this capability."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.13. - Control Available Software Packages"
+    id="id-f7a2ce402ba544a3930a9caf462bbd47"
+    documentation="Your TRE could tightly control which packages are available."/>

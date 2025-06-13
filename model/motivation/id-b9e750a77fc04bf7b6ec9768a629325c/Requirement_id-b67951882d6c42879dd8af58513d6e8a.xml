@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.2.12. - Enable Network Monitoring"
+    id="id-b67951882d6c42879dd8af58513d6e8a"
+    documentation="You should be able to monitor the network configuration of your TRE to check for misconfigurations and vulnerabilities."/>

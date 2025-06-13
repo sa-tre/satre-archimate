@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.2.2. - Restrict Project Manager Access"
+    id="id-1a93d55a913249118650f13910f52533"
+    documentation="You should not give project managers direct access to the TRE."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.2.11. - Block Outbound Internet Access"
+    id="id-b34843079adc438d99af423306a387cd"
+    documentation="Your TRE must block outbound connections to the internet by default."/>

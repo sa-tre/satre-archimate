@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.4.2. - Automate Configuration Management"
+    id="id-2abee17e8c7a49d88f4552d8314ce9f4"
+    documentation="You should use configuration management tools to automate application of your configuration wherever possible."/>

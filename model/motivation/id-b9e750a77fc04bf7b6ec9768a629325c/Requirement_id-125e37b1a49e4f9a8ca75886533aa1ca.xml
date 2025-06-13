@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.3. - Restrict Direct Data Access"
+    id="id-125e37b1a49e4f9a8ca75886533aa1ca"
+    documentation="A TRE could restrict data access from data consumers entirely and provide an interface for submitting code."/>

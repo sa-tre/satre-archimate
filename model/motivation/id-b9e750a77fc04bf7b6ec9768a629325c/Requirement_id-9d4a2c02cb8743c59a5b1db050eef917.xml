@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.3. - Backup Infrastructure &amp; Configurations"
+    id="id-9d4a2c02cb8743c59a5b1db050eef917"
+    documentation="You should keep backups of infrastructure, applications and configurations."/>

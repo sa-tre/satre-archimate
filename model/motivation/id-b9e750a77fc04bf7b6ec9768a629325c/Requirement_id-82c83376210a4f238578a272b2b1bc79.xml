@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.12. - Encrypt Data at Rest"
+    id="id-82c83376210a4f238578a272b2b1bc79"
+    documentation="Your TRE must encrypt project and user data at rest."/>

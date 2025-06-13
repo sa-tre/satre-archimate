@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.1.1. - Develop Business Continuity Plan"
+    id="id-508ea52156b94a5eb4382f0a2de843ac"
+    documentation="You should have a business continuity plan that includes consideration of loss of service for deployed TREs."/>

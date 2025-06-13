@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.2.1. - Restrict Policy Changes"
+    id="id-a14bd2d2251a40f2b4b8130e362943ba"
+    documentation="You must ensure that changes to policies and standard operating procedures can only be made by trusted individuals."/>

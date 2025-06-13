@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.5.4. - Access Approval via Data Controller"
+    id="id-bd4bab1baffc46a1a6fccfffe87e21cc"
+    documentation="You must not give anyone access to datasets without agreement from the Data Controller."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.12. - Allow Access to Software Repositories"
+    id="id-6e4a4caeee64465484e3da2ecc75ff4f"
+    documentation="Your TRE could provide access to some public software repositories or container registries."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.2. - Implement Infrastructure Redundancy"
+    id="id-37ab99e22be94dc19abfcb9ce2c74f96"
+    documentation="You should build redundancy into infrastructure and storage."/>

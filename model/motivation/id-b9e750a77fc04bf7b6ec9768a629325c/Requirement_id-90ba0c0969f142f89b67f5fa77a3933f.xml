@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.15. - Provide Scalable Compute Access"
+    id="id-90ba0c0969f142f89b67f5fa77a3933f"
+    documentation="Your TRE should be able to provide access to high performance computing or other scalable compute resource if required by users."/>

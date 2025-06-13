@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.2.16. - Monitor Computational Resource Usage"
+    id="id-9203c134fc314938b7dc47315c0d48dc"
+    documentation="Your TRE should record computational resource usage at the user or aggregate level."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.15. - Use Secure Encryption Standards"
+    id="id-5db6b4cb9ad94c4196a569659ed56f57"
+    documentation="You should use encryption algorithms and software that are widely accepted as secure."/>

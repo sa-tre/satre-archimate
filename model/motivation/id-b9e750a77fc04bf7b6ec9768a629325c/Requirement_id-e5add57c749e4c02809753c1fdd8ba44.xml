@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.3.6 - Apply Statistical Disclosure Methods"
+    id="id-e5add57c749e4c02809753c1fdd8ba44"
+    documentation="You should have a statistical basis to guide the decisions of an output checker on the safety of outputs."/>

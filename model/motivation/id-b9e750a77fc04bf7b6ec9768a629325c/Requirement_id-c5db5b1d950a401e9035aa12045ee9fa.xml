@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.2.5. - Support Federated Authentication"
+    id="id-c5db5b1d950a401e9035aa12045ee9fa"
+    documentation="You could use federated authentication or single sign-on (SSO) for user login."/>

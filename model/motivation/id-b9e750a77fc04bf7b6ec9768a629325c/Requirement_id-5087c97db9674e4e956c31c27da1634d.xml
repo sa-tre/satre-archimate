@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.5.5. - Secure User &amp; Service Authentication"
+    id="id-5087c97db9674e4e956c31c27da1634d"
+    documentation="You must have robust and secure applications in place to authenticate users (and services) within the TRE."/>

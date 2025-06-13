@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.14. - Encrypt Data in Transit (Internal)"
+    id="id-95aa671ccd904a3098d302405675a985"
+    documentation="Your TRE should encrypt data when in transit inside the TRE."/>

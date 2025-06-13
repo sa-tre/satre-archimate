@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.14. - Maintain User &amp; Data Segregation"
+    id="id-0402a93ed76f48659a1403cf7107fafa"
+    documentation="Your TRE must maintain segregation of users and data from different projects when using non-standard compute."/>
