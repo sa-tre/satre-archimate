@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automated Output Checking Application"
+    id="id-ec00d6b668f84347bbfb6a098f629e02"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/data_management.html#output-management"/>

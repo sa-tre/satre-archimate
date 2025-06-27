@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2.1 Code Version Control Application"
+    name="Code Version Control Application "
     id="id-6f71598cdf824707bfde758bf67f6368"
     documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#code-version-control-system">
   <properties
