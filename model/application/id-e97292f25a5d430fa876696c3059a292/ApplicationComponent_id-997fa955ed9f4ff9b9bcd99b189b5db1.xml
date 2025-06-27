@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.3 Output Classification Tool"
+    name="Output Classification Tool  "
     id="id-997fa955ed9f4ff9b9bcd99b189b5db1"
     documentation="https://satre-specification.readthedocs.io/en/stable/pillars/data_management.html#output-management">
   <properties

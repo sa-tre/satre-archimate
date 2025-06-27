@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.7 Metadata Search and Discovery"
+    id="id-e02301f9b1314503934a377bf5642b15">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2bdcdd93b143482ab51e53e5d86e84bf"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5a6e952e70bc43f99155286e185ae58f"
+        source="id-2bdcdd93b143482ab51e53e5d86e84bf"
+        target="id-bdff6013c9034b7cb371d6b3209d81c4">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-b738e09a545f4a588ff4f6405e89a6f9.xml#id-b738e09a545f4a588ff4f6405e89a6f9"/>
+    </sourceConnections>
+    <bounds
+        x="240"
+        y="252"
+        width="313"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-bdff6013c9034b7cb371d6b3209d81c4"
+        targetConnections="id-5a6e952e70bc43f99155286e185ae58f">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Requirement"
+          href="Requirement_id-b5ac5bf935da4d17a4197fa880316b1b.xml#id-b5ac5bf935da4d17a4197fa880316b1b"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-94ed52c853474a88aa79cf0318f27deb.xml#id-94ed52c853474a88aa79cf0318f27deb"/>
+  </children>
+</archimate:ArchimateDiagramModel>
