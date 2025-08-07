@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Top Management"
-    id="id-0b06132c5a19484db195cb68f66d230e"/>
+    id="id-0b06132c5a19484db195cb68f66d230e"
+    documentation="https://satre-specification.readthedocs.io/en/stable/roles.html#governance-roles"/>

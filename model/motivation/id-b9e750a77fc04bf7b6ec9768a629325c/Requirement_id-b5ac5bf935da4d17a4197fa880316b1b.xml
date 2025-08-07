@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.7.1. - Create Data Query Interface"
+    id="id-b5ac5bf935da4d17a4197fa880316b1b"
+    documentation="You could provide an interface application for data consumers and data subjects to query elements of the data."/>

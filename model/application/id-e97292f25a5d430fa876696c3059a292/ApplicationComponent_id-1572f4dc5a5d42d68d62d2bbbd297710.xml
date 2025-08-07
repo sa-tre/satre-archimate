@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Key Management Application"
-    id="id-1572f4dc5a5d42d68d62d2bbbd297710">
+    name="Key Management Application  "
+    id="id-1572f4dc5a5d42d68d62d2bbbd297710"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#key-management-application">
   <properties
       key="Capability 1"
       value="Encryption"/>

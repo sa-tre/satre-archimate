@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IT Service Management"
-    id="id-bb16c20b22f64061b154e2e21fa04168"/>
+    name="4.6 IT Service Management"
+    id="id-bb16c20b22f64061b154e2e21fa04168"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/supporting.html#it-service-management"/>

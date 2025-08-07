@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.2.3. - Limit User Data Access"
+    id="id-b5607dd2b3c64d07881388a5f985fa2d"
+    documentation="You must restrict a user�s access to only data required in their work."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.1.10. - Provide Proof of Deletion"
+    id="id-1bf8fc33b91f41e0ba011ca6864287e0"
+    documentation="You should have a method of providing proof of deletion/removal of files."/>

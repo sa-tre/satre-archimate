@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.4. - Ensure Accessible TRE Interface"
+    id="id-b94996f24ff2471381eaa667b257045f"
+    documentation="Your TRE should be accessed via a user interface accessible using commonly available applications."/>

@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Authentication Application"
-    id="id-dd307d243179415f874f57ce2bdae43d">
+    name="Authentication Application   "
+    id="id-dd307d243179415f874f57ce2bdae43d"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#authentication-application">
   <properties
       key="Capability 1"
       value="Identity and Access Management"/>

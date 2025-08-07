@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Steward"
-    id="id-9f748cc64d084280825eaccf6110ca88"/>
+    id="id-9f748cc64d084280825eaccf6110ca88"
+    documentation="https://satre-specification.readthedocs.io/en/stable/roles.html#data-management-roles"/>

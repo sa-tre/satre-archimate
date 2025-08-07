@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.1.12. - Prevent Unauthorized Data Transfers"
+    id="id-14080be7d6204e30bdcf9276da09de2b"
+    documentation="You must, to a reasonable extent, prevent unauthorised data ingress or egress."/>

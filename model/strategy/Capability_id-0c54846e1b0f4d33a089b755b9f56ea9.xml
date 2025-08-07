@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Capacity Management"
-    id="id-0c54846e1b0f4d33a089b755b9f56ea9">
+    name="2.3 Capacity Management"
+    id="id-0c54846e1b0f4d33a089b755b9f56ea9"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#capacity-planning-process">
   <properties
       key="Pillar"
       value="Computing Technology"/>

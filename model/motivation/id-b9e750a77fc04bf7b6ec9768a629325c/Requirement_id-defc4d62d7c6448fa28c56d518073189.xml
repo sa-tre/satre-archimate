@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.6.2. - Enable Abstracted Data Access"
+    id="id-defc4d62d7c6448fa28c56d518073189"
+    documentation="You could provide summary, abstracted or synthetic data to researchers without exposing the underlying data set."/>

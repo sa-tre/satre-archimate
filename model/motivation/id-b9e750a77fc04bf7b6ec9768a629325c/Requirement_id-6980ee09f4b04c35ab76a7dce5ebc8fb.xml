@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.2.6. - Restrict Access by Location"
+    id="id-6980ee09f4b04c35ab76a7dce5ebc8fb"
+    documentation="You could restrict access to particular networks or physical locations."/>

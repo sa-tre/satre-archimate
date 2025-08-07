@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.18. - Comply with Regulatory Requirements"
+    id="id-5f901e2e87b94a438e2f377b98d832da"
+    documentation="Your TRE may need to comply with specific regulatory requirements due to the types of data it is hosting."/>

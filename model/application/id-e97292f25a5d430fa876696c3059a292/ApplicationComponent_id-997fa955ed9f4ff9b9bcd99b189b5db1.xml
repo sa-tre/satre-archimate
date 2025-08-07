@@ -1,11 +1,11 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Output Classification Tool"
+    name="Output Classification Tool  "
     id="id-997fa955ed9f4ff9b9bcd99b189b5db1"
-    documentation="Information Governance">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/data_management.html#output-management">
   <properties
       key="Capability 1"
-      value="Study Management"/>
+      value="Data Lifecycle Management"/>
   <properties
       key="Capability 1"
       value="Data Lifecycle Management"/>

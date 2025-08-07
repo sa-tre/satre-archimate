@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.2.5. - Use Mirrored Development Environment"
+    id="id-6715136637bf4e318da031a2f5adaf0c"
+    documentation="You should have a development environment that mirrors your production environment which you use to test infrastructure changes before committing them to production."/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Procurement"
-    id="id-60e30eab94d442409d8a67ae17b6506b"/>
+    name="4.5 Procurement"
+    id="id-60e30eab94d442409d8a67ae17b6506b"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/supporting.html#procurement"/>

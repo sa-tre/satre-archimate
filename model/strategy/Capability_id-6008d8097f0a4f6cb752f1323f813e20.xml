@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Project and Programme Management"
-    id="id-6008d8097f0a4f6cb752f1323f813e20"/>
+    name="4.2 Project and Programme Management"
+    id="id-6008d8097f0a4f6cb752f1323f813e20"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/supporting.html#project-and-programme-management"/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.8.4. - Disclose Incidents &amp; Mitigations"
+    id="id-a73838af89de4fa0b62f8d17c6950a25"
+    documentation="You should publicly share details of incidents, near misses, and mitigations in a timely fashion, in line with good practices for responsible disclosure."/>

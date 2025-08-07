@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.16. - Enable GPU Access"
+    id="id-880bbb7c04304ef2a815debdec25cad6"
+    documentation="Your TRE should be able to provide access to accelerators such as GPUs if required by users."/>

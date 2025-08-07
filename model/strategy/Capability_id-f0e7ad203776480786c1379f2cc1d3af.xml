@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Risk Management"
-    id="id-f0e7ad203776480786c1379f2cc1d3af">
+    name="1.3 Risk Management"
+    id="id-f0e7ad203776480786c1379f2cc1d3af"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#risk-management">
   <properties
       key="Pillar"
       value="Information Governance"/>

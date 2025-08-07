@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.2.7. - Understand Provider Availability Guarantees"
+    id="id-9fb1fb687afd42079badd91ac1a79ec4"
+    documentation="You should understand the availability and uptime guarantees of any providers that you rely on."/>

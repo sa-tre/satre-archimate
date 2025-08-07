@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identity and Access Management"
-    id="id-4bd79ad674914c738991ff7ae261b42b">
+    name="3.2 Identity and Access Management"
+    id="id-4bd79ad674914c738991ff7ae261b42b"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/data_management.html#identity-and-access-management">
   <properties
       key="Pillar"
       value="Data Management"/>

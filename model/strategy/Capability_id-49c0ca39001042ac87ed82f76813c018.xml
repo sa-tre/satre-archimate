@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Member Accreditation"
-    id="id-49c0ca39001042ac87ed82f76813c018">
+    name="1.5 Member Accreditation"
+    id="id-49c0ca39001042ac87ed82f76813c018"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#member-accreditation">
   <properties
       key="Pillar"
       value="Information Governance"/>

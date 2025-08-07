@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.4.4. - Conduct Regular Configuration Audits"
+    id="id-d9119bad52424847875c18da5107b828"
+    documentation="You should regularly verify your TRE configuration."/>

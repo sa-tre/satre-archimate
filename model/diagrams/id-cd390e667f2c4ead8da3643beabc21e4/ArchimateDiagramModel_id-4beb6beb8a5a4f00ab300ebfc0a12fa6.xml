@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vulnerability Management"
+    name="2.5 Vulnerability Management"
     id="id-4beb6beb8a5a4f00ab300ebfc0a12fa6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

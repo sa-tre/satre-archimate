@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Command Line Interface"
+    name="Command Line Interface  "
     id="id-2f360f1c85764234895a9752ff854c7b"
-    documentation="Computing Technology">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#end-user-computing-interfaces">
   <properties
       key="Capability 1"
       value="End user computing"/>

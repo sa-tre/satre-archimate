@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.1.4. - Enforce Data Ingress Governance"
+    id="id-2627f79a0fb44bf694685bf526bc5970"
+    documentation="You must have a data ingress process which enforces information governance rules/processes."/>

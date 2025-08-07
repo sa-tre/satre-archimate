@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.1.13. - Minimize Stored Data"
+    id="id-1c3d071e1bd7401e846e915473fa99eb"
+    documentation="Data held within the TRE should be the minimum required for analysis or research."/>

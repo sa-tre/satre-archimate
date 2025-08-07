@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Supplier Management and Monitoring process"
     id="id-1b5c4a1d633a444299d4d7e6a36f1f12"
-    documentation="Information Governance">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#supplier-management-and-monitoring-process">
   <properties
       key="Capability 1"
       value="Quality Management"/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.2.4. - Enforce Multi-Factor Authentication"
+    id="id-3a960726c128422cb3cc844d70d151eb"
+    documentation="You must ensure that multi-factor authentication is enabled for all users."/>

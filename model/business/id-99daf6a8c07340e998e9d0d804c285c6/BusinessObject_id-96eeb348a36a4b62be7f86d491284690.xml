@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="User Identity Attributes"
+    name="User Identity Attributes  "
     id="id-96eeb348a36a4b62be7f86d491284690"
-    documentation="Information Governance">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#user-identity-attributes">
   <properties
       key="Capability 1"
       value="Member Accreditation"/>

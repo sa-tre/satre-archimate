@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Computing Technology"
-    id="id-5fafe4e6560e49e79e2ddab2d0ac9934">
+    name="2.0 Computing Technology"
+    id="id-5fafe4e6560e49e79e2ddab2d0ac9934"
+    documentation="2. Computing technology and Information Security � Standard Architecture for Trusted Research Environments 0.0 documentation">
   <properties
       key="Pillar"
       value="Computing Technology"/>

@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Configuration Management"
-    id="id-c32eb218b87640c38ace5ccd31353560">
+    name="2.4 Configuration Management"
+    id="id-c32eb218b87640c38ace5ccd31353560"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#configuration-management">
   <properties
       key="Pillar"
       value="Computing Technology"/>

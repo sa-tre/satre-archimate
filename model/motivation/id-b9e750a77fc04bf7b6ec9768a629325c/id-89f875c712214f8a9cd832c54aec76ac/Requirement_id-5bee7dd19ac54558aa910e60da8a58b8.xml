@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.2.2. - Automate Repeatable Deployment Tasks"
+    id="id-5bee7dd19ac54558aa910e60da8a58b8"
+    documentation="You should, where possible, automate any repeatable aspects of your deployment."/>

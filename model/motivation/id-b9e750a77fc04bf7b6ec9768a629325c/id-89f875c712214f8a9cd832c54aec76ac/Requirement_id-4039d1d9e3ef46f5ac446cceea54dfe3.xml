@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.7. - Apply Security Updates Consistently"
+    id="id-4039d1d9e3ef46f5ac446cceea54dfe3"
+    documentation="You must have a process in place for applying security updates to all software that forms part of the TRE infrastructure."/>

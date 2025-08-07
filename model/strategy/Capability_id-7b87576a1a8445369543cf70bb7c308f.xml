@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Study Management"
-    id="id-7b87576a1a8445369543cf70bb7c308f">
+    name="1.4 Study Management"
+    id="id-7b87576a1a8445369543cf70bb7c308f"
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#study-management">
   <properties
       key="Pillar"
       value="Information Governance"/>

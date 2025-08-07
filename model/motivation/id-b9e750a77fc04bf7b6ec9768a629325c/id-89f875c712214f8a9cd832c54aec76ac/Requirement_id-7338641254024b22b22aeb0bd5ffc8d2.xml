@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.1. - Restrict Data Copying via Clipboard"
+    id="id-7338641254024b22b22aeb0bd5ffc8d2"
+    documentation="You must not allow users to copy data out of your TRE via the system clipboard."/>

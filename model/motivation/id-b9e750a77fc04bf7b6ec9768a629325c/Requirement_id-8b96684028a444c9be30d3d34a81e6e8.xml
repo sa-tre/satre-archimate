@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.8.1. - Ensure Archived Data is Read-Only"
+    id="id-8b96684028a444c9be30d3d34a81e6e8"
+    documentation="Archived data within the TRE should be read only."/>

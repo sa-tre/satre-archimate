@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.6.1. - Standardize Metadata Models"
+    id="id-b7c535ab2b594f56b2e42ab3b6dbc599"
+    documentation="You should have a consistent and easily accessible meta-data data model or similar to describe what a data asset contains."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.8. - Enable Automated Patching"
+    id="id-6035b8eaa0f143e6ac32d8b01c480c80"
+    documentation="Infrastructure should be automatically patched for vulnerabilities."/>

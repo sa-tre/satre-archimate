@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requirements Gathering and Monitoring Process"
     id="id-c1f302c012d44c4a8f6597603f3c69dd"
-    documentation="Computing Technology">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#requirements-gathering-and-monitoring">
   <properties
       key="Capability 1"
       value="Information Governance"/>

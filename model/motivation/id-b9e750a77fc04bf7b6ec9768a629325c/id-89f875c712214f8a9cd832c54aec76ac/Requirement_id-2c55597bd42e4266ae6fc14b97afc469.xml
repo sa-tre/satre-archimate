@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.9. - Conduct Penetration Testing"
+    id="id-2c55597bd42e4266ae6fc14b97afc469"
+    documentation="You should carry out penetration tests on your TRE."/>

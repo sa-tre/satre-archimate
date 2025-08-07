@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.8 - Control Shared Services Access"
+    id="id-1c50ac72a40d46cdbf243cb4fd3c827d"
+    documentation="Your TRE must ensure that any shared services are only available to users working on the same project."/>

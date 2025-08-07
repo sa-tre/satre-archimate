@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.18. - Integrate Large-Scale Analytics Tools"
+    id="id-482d360fd54244319a77408175af1b07"
+    documentation="Your TRE could integrate with large-scale data analytics tools for working with large datasets."/>

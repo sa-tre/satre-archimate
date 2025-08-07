@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.13. - Encrypt Data in Transit (External)"
+    id="id-88ff33122ae54e51bddeefaa308204e8"
+    documentation="Your TRE must encrypt data when in transit between the TRE and external networks or computers."/>

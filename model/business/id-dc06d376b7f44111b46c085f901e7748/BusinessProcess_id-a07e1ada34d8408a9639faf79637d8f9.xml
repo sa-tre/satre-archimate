@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Asset Management Process"
+    name="Asset Management Process  "
     id="id-a07e1ada34d8408a9639faf79637d8f9"
-    documentation="Information Governance">
+    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#asset-management-process">
   <properties
       key="Capability 1"
       value="Quality Management"/>

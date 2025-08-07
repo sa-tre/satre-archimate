@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.2.15. - Track Dataset Access"
+    id="id-8b98a084c68840bea84dfdd8bc2b438e"
+    documentation="Your TRE should record which datasets are accessed, when and by who."/>

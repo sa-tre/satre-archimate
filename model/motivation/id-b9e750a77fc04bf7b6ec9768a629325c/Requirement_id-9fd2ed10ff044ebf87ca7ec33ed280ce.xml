@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.5.2. - Support Configurable Security Controls"
+    id="id-9fd2ed10ff044ebf87ca7ec33ed280ce"
+    documentation="Your TRE could support projects with differing security requirements through configurable security controls."/>

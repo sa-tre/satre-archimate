@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.4.3. - Verify Configuration Validity"
+    id="id-191f838293f341bdbf81d8a986c1c235"
+    documentation="You should be able to verify whether the configuration is valid."/>

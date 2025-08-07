@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1.17. - Support Databases"
+    id="id-6f7b98ecea1d44aa9fc999fbe25112b1"
+    documentation="Your TRE could make data available to data consumers using common database systems such as PostgreSQL, MSSQL or MongoDB."/>

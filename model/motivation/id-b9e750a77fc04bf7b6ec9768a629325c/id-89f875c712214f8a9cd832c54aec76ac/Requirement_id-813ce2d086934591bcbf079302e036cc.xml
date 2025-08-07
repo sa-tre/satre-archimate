@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.5.16. - Implement Secure Key Management"
+    id="id-813ce2d086934591bcbf079302e036cc"
+    documentation="Your TRE should use secure key management."/>

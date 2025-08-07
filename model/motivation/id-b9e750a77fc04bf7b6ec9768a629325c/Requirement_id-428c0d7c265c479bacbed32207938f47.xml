@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.1.11. - Log Data Modifications"
+    id="id-428c0d7c265c479bacbed32207938f47"
+    documentation="You should log how input data is modified."/>
