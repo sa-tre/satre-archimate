@@ -461,6 +461,24 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-3b4482619eda44d4b3d28df3a0679cbe.xml#id-3b4482619eda44d4b3d28df3a0679cbe"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5cc3adc8430a48e5a1a9679f13a13f25"
+        source="id-88f0c2abc2cd47a1a848d57540c107cf"
+        target="id-b30c33ab7fe64871993209ad89281aa3">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-cda20522705d49b0a6c1aa9a422e407e.xml#id-cda20522705d49b0a6c1aa9a422e407e"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6c09da022e5744a58f4eca64284561ef"
+        source="id-88f0c2abc2cd47a1a848d57540c107cf"
+        target="id-aa2ba524584e424d8f033c7590153707">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-372562b4374d4f2fac56b2d5f9c026b4.xml#id-372562b4374d4f2fac56b2d5f9c026b4"/>
+    </sourceConnections>
     <bounds
         x="600"
         y="120"
@@ -634,6 +652,32 @@
       <archimateElement
           xsi:type="archimate:Requirement"
           href="Requirement_id-9b0dbd29b47c48a880e876b1e37952f4.xml#id-9b0dbd29b47c48a880e876b1e37952f4"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-b30c33ab7fe64871993209ad89281aa3"
+        targetConnections="id-5cc3adc8430a48e5a1a9679f13a13f25">
+      <bounds
+          x="144"
+          y="300"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Requirement"
+          href="Requirement_id-8b96684028a444c9be30d3d34a81e6e8.xml#id-8b96684028a444c9be30d3d34a81e6e8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-aa2ba524584e424d8f033c7590153707"
+        targetConnections="id-6c09da022e5744a58f4eca64284561ef">
+      <bounds
+          x="276"
+          y="300"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Requirement"
+          href="Requirement_id-c2b12141fb8743ff9822ed2898b8157d.xml#id-c2b12141fb8743ff9822ed2898b8157d"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
