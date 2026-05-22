@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Deployment Process  "
     id="id-dd5e82257e7544739c65ef2a26118314"
-    documentation="Computing Technology">
+    documentation="Involves packaging, releasing and installing applications into the TRE environment so that they are available for use by data consumers and operators.">
   <properties
       key="Capability 1"
       value="End user computing"/>

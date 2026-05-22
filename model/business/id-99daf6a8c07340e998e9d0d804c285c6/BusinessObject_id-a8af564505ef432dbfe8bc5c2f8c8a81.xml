@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Training Records   "
     id="id-a8af564505ef432dbfe8bc5c2f8c8a81"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#quality-management-data">
+    documentation="Consists of records of training activities undertaken by individuals within the TRE organisation, including completion, certification and currency information.">
   <properties
       key="Capability 1"
       value="Quality Management"/>

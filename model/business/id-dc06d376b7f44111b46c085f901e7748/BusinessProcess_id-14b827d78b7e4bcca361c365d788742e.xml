@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Security Testing   "
     id="id-14b827d78b7e4bcca361c365d788742e"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#security-testing">
+    documentation="Enables the TRE operator to gain assurance in the security of a TRE by testing or attempting to breach some or all of that system's security.">
   <properties
       key="Capability 1"
       value="Vulnerability Management"/>

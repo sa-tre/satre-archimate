@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Course Data   "
     id="id-9eea38db41694fa3a07483fb6a20ef64"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#courses-data">
+    documentation="Consists of information or data associated with educational courses, including course materials, syllabi, and assessments.">
   <properties
       key="Capability 1"
       value="Training Management and Delivery"/>

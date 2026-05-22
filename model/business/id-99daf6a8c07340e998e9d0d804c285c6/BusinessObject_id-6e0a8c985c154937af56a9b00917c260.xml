@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Study Register   "
     id="id-6e0a8c985c154937af56a9b00917c260"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#study-register">
+    documentation="A centralised record or database that tracks and manages information about research studies and projects.">
   <properties
       key="Capability 1"
       value="Study Management"/>

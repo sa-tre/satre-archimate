@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Artifact Management Application  "
     id="id-b4510227cbb043e7a3466bd9a764ea0e"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#artefact-management-application">
+    documentation="A service that manages and organises third-party software artefacts such as packaged code libraries or containers.">
   <properties
       key="Capability 1"
       value="End user computing"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Classification   "
     id="id-5ced822f5df443a1a94d438df6a6dcff"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/data_management.html#data-lifecycle-management">
+    documentation="Involves categorising data according to its sensitivity, value and regulatory requirements so that appropriate controls can be applied.">
   <properties
       key="Capability 1"
       value="Data Lifecycle Management"/>

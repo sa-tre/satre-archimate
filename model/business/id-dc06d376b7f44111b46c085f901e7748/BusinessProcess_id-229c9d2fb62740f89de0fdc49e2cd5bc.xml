@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Billing Process   "
     id="id-229c9d2fb62740f89de0fdc49e2cd5bc"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#billing-process">
+    documentation="Involves generating and managing invoices and bills for projects within the TRE. It involves calculation, issuance, and recording of payments and receipts.">
   <properties
       key="Capability 1"
       value="Capacity Management"/>

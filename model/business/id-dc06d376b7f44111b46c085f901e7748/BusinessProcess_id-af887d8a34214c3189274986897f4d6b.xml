@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Control Process   "
     id="id-af887d8a34214c3189274986897f4d6b"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#controls">
+    documentation="Involves measures, safeguards, or mechanisms implemented to manage or mitigate risks associated with your organisational requirements.">
   <properties
       key="Capability 1"
       value="Information Governance"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Intrusion Detection Application  "
     id="id-97ea7a26c2b941b586946fcd93b6db44"
-    documentation="Computing Technology">
+    documentation="A software application that monitors systems and network traffic within the TRE to detect and alert on suspicious or unauthorised activity.">
   <properties
       key="Capability 1"
       value="Network Management"/>

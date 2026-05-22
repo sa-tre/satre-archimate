@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Configuration Management Process  "
     id="id-e91809c3a35c4a4dbe963882c70bd07c"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#configuration-management-process">
+    documentation="Involves the TRE operator identifying, maintaining, and verifying information on IT assets and configurations in the TRE organisation.">
   <properties
       key="Capability 1"
       value="Configuration Management"/>

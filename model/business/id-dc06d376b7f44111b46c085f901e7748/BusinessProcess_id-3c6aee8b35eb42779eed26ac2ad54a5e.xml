@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Availability Management Process  "
     id="id-3c6aee8b35eb42779eed26ac2ad54a5e"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#availability-management-process">
+    documentation="Involves ensuring all IT infrastructure meets the agreed levels of availability.">
   <properties
       key="Capability 1"
       value="Infrastructure Management"/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resilience process   "
     id="id-3c066654b35244678e22c2fe352034ad"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#vulnerability-management-resilience-processes"/>
+    documentation="A set of processes which ensures the TRE infrastructure can withstand disruption from incidents that risk confidentiality, integrity or availability of data."/>

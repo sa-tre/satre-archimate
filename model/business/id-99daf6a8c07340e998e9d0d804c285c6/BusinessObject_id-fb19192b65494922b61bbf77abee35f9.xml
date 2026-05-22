@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Activity Log Data  "
-    id="id-fb19192b65494922b61bbf77abee35f9"/>
+    id="id-fb19192b65494922b61bbf77abee35f9"
+    documentation="Consists of records of events, actions and transactions captured by systems and applications within the TRE, used for monitoring, audit and investigation purposes."/>

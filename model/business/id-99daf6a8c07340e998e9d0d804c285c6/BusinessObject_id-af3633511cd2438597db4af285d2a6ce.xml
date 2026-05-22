@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Quality Management Data  "
     id="id-af3633511cd2438597db4af285d2a6ce"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#quality-management-data">
+    documentation="Consists of data, including training records and configuration data, collected and used to monitor, evaluate, and improve the quality of processes or services within the TRE organisation.">
   <properties
       key="Capability 1"
       value="Information Governance"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.5 Information Security"
     id="id-03768d5c91994bd3b44a07f4ee5a8913"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#information-security">
+    documentation="What the organisation does to safeguard research to ensure the confidentiality, integrity and availability of research resources and data.">
   <properties
       key="Pillar"
       value="Data Management"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Security Patching   "
     id="id-38766457679f499fb83014bb3fd7618b"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#security-patching">
+    documentation="The process of applying updates or patches to software and systems to address known security vulnerabilities and flaws.">
   <properties
       key="Capability 1"
       value="Vulnerability Management"/>

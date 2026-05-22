@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Study Management Portal  "
     id="id-9485c36e1c7343ab89d75280f8d975cb"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#study-management-portal">
+    documentation="An online platform that provides centralised access to manage research studies including onboarding studies, control of access and administration of compliance tasks.">
   <properties
       key="Capability 1"
       value="Study Management"/>

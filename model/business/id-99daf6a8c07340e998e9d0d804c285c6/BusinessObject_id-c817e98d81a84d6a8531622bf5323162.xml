@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Change and Configuration Data "
     id="id-c817e98d81a84d6a8531622bf5323162"
-    documentation="Computing Technology">
+    documentation="Consists of information that describes proposed and implemented changes to IT assets and their configurations within the TRE organisation.">
   <properties
       key="Capability 1"
       value="Configuration Management"/>
