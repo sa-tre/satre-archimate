@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.4 Study Management"
     id="id-7b87576a1a8445369543cf70bb7c308f"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#study-management">
+    documentation="What the organisation does to create and maintain research projects and work packages within the TRE.">
   <properties
       key="Pillar"
       value="Information Governance"/>

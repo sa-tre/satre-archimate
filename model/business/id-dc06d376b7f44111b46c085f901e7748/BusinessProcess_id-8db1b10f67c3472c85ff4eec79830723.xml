@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Minimisation   "
+    name="Data Minimisation"
     id="id-8db1b10f67c3472c85ff4eec79830723"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/data_management.html#data-lifecycle-management">
+    documentation="Involves ensuring that only the minimum amount of data necessary to achieve a research purpose is collected, processed and retained within the TRE.">
   <properties
       key="Capability 1"
       value="Data Lifecycle Management"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federation Information Management System"
+    id="id-572935f0a2854efe8e13c72d567aeb6a"
+    documentation="A software system used to manage information about members, agreements, identities and shared resources across a federation of TREs."/>

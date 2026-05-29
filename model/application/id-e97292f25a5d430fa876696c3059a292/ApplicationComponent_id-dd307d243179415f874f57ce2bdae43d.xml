@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Authentication Application   "
+    name="Authentication Application"
     id="id-dd307d243179415f874f57ce2bdae43d"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#authentication-application">
+    documentation="A software system that verifies and validates the identities of users or entities accessing a system through multifactor authentication.">
   <properties
       key="Capability 1"
       value="Identity and Access Management"/>

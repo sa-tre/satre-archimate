@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Archiving   "
+    name="Data Archiving"
     id="id-72874fd087d143b39d1aa4f576e14a96"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/data_management.html#data-lifecycle-management">
+    documentation="The practice of storing data that is no longer actively used but needs to be retained for historical or compliance reasons.">
   <properties
       key="Capability 1"
       value="Data Lifecycle Management"/>

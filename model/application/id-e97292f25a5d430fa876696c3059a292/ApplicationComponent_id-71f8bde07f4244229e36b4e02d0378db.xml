@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Desktop    "
+    name="Desktop"
     id="id-71f8bde07f4244229e36b4e02d0378db"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#end-user-computing-interfaces">
+    documentation="The user-facing workspace presented to data consumers within the TRE, providing access to applications and tools required for research.">
   <properties
       key="Capability 1"
       value="End user computing"/>

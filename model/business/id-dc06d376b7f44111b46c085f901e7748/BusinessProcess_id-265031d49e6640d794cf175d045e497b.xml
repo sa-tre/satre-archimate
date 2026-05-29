@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Infrastructure Removal Process  "
+    name="Infrastructure Removal Process"
     id="id-265031d49e6640d794cf175d045e497b"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#infrastructure-removal-process">
+    documentation="Involves retiring or removing infrastructure assets that are no longer needed or outdated, ensuring proper data handling and disposal.">
   <properties
       key="Capability 1"
       value="Infrastructure Management"/>

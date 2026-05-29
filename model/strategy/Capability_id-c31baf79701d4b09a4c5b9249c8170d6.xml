@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Network Management"
-    id="id-c31baf79701d4b09a4c5b9249c8170d6"/>
+    id="id-c31baf79701d4b09a4c5b9249c8170d6"
+    documentation="The ability of the TRE operator to design, configure and manage the network infrastructure that connects users, systems and data within the TRE."/>

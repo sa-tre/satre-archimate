@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vulnerability Management Application  "
+    name="Vulnerability Management Application"
     id="id-78fa2c67b4864ef2bdd57aae27f35295"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#vulnerability-management">
+    documentation="A software application used to identify, assess, report on and remediate technical vulnerabilities across endpoints, workloads and systems within the TRE.">
   <properties
       key="Capability 1"
       value="Vulnerability Management"/>

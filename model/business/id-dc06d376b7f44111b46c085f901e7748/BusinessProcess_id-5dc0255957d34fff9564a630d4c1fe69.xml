@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Encryption Process   "
+    name="Encryption Process"
     id="id-5dc0255957d34fff9564a630d4c1fe69"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#encryption">
+    documentation="Involves applying cryptographic techniques to protect data at rest and in transit within the TRE, ensuring confidentiality and integrity of information.">
   <properties
       key="Capability 1"
       value="Encryption"/>

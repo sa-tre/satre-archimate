@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5.6 Federation Data Management"
+    id="id-f06f6134517c4b05976d0d7ae59e7750"
+    documentation="The ability of the federation to manage data assets shared across member TREs and ensure information remains secure as it moves between environments."/>
