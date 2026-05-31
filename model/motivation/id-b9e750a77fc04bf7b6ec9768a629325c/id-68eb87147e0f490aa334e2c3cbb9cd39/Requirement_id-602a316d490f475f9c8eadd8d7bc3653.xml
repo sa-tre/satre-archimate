@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1.1.2. - Implement Compliance Controls"
+    name="1.1.02 - Implement Compliance Controls"
     id="id-602a316d490f475f9c8eadd8d7bc3653"
-    documentation="You must ensure controls are implemented to ensure the requirements are met."/>
+    documentation="https://satre-specification.readthedocs.io/en/specification.html#satre-1-1-02"/>

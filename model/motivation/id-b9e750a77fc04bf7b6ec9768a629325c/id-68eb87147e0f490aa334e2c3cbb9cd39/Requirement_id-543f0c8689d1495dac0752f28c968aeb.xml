@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1.6.7. - Use Learning Management System (LMS)"
+    name="1.6.07 - Use Learning Management System (LMS)"
     id="id-543f0c8689d1495dac0752f28c968aeb"
-    documentation="You could implement a learning management system (LMS) to manage courses and deliver training as required."/>
+    documentation="https://satre-specification.readthedocs.io/en/specification.html#satre-1-6-07"/>

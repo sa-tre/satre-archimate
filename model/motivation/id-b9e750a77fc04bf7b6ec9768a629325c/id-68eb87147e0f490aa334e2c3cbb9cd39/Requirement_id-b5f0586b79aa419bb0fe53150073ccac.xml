@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1.6.1. - Determine Role-Based Training Requirements"
+    name="1.6.01 - Determine Role-Based Training Requirements"
     id="id-b5f0586b79aa419bb0fe53150073ccac"
-    documentation="You must determine what training is relevant for all roles within the TRE organisation."/>
+    documentation="https://satre-specification.readthedocs.io/en/specification.html#satre-1-6-01"/>
