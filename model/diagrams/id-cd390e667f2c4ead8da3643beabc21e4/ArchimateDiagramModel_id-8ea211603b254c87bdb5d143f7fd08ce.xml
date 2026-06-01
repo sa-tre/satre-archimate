@@ -232,10 +232,10 @@
           href="AssociationRelationship_id-3fe0925c45754fab9ea51276b0c45a1d.xml#id-3fe0925c45754fab9ea51276b0c45a1d"/>
     </sourceConnections>
     <bounds
-        x="131"
-        y="552"
-        width="448"
-        height="181"/>
+        x="600"
+        y="228"
+        width="301"
+        height="289"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2449b01ae134455fbdd787062dc8793f"
@@ -267,8 +267,8 @@
         id="id-db64c09e202f43549b128059a276904d"
         targetConnections="id-d707c34a86a24cec8d176ae9116b379b">
       <bounds
-          x="312"
-          y="24"
+          x="12"
+          y="96"
           width="120"
           height="55"/>
       <archimateElement
@@ -280,7 +280,7 @@
         id="id-af0ed46fd38843f2aea65d4062b81433"
         targetConnections="id-92900a8bf822494da11c7b8f14000214">
       <bounds
-          x="12"
+          x="156"
           y="96"
           width="120"
           height="55"/>
@@ -293,8 +293,8 @@
         id="id-935a1695ce5241df9e484a7175bfdd2b"
         targetConnections="id-c86ac50316584ff3904523fa25cf4870">
       <bounds
-          x="162"
-          y="96"
+          x="12"
+          y="168"
           width="120"
           height="55"/>
       <archimateElement
@@ -304,5 +304,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-8d258e5a199b421da2b880b86a5cfbce.xml#id-8d258e5a199b421da2b880b86a5cfbce"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9182f0ac981a43a7a678500fd2a5e7b5"
+      textAlignment="1"
+      content="2.8 Encryption - The ability of the TRE operator to deploy and manage encryption to protect information assets, including data for TRE research projects.&#xD;&#xA;&#xD;&#xA;The encryption process is triggered when data is ingressed, egressed or moved within the TRE to ensure it is securely transmitted or stored. The key management application serves the encryption process and updates the encryption key data.&#xD;&#xA;">
+    <bounds
+        x="156"
+        y="552"
+        width="745"
+        height="97"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -302,15 +302,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b944ad690b5b4641b660667f9c3d1a1d"
-        source="id-1242606732ea49ca99de4d7b35601b96"
-        target="id-e9092527010947baa59609a3c3918dd2">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-c05ee91f639c4c29afbf76591227eb6f.xml#id-c05ee91f639c4c29afbf76591227eb6f"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-cb9f962787944341991bc8ee7a115c36"
         source="id-1242606732ea49ca99de4d7b35601b96"
         target="id-92333098311d46ea91b1bd019a968ea7">
@@ -419,9 +410,9 @@
     </sourceConnections>
     <bounds
         x="540"
-        y="84"
+        y="126"
         width="421"
-        height="433"/>
+        height="349"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0bfb131fc7464803872689767699bbe7"
@@ -476,23 +467,10 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e9092527010947baa59609a3c3918dd2"
-        targetConnections="id-b944ad690b5b4641b660667f9c3d1a1d">
-      <bounds
-          x="12"
-          y="276"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Requirement"
-          href="Requirement_id-8cb3638387b643d5a3bc3ac55cfa4244.xml#id-8cb3638387b643d5a3bc3ac55cfa4244"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-92333098311d46ea91b1bd019a968ea7"
         targetConnections="id-cb9f962787944341991bc8ee7a115c36">
       <bounds
-          x="144"
+          x="12"
           y="276"
           width="120"
           height="55"/>
@@ -505,7 +483,7 @@
         id="id-ee1edbe7c2f84df2a4e94df1dc6ad927"
         targetConnections="id-53eaae54cea64cd7973853eb34a15bf2">
       <bounds
-          x="276"
+          x="144"
           y="276"
           width="120"
           height="55"/>
@@ -518,8 +496,8 @@
         id="id-f8f3bed620d447d3ab2dd385ce3b7a97"
         targetConnections="id-e20a5184ebf44ac2879651c64590d151">
       <bounds
-          x="12"
-          y="336"
+          x="276"
+          y="276"
           width="120"
           height="55"/>
       <archimateElement
@@ -633,5 +611,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-1557b944cbf34046a56ca9b4b7f07479.xml#id-1557b944cbf34046a56ca9b4b7f07479"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7dc690f404764d47b498437e5b59ccfe"
+      textAlignment="1"
+      content="2.2 Infrastructure Management - The ability of the TRE operator to deploy, change or remove physical or virtual infrastructure.&#xD;&#xA;&#xD;&#xA;Infrastructure developers and TRE operators deploy and manage infrastructure within the TRE. Infrastructure is likely to be in part or fully virtualised allowing the automation of deployment processes. The change process ensures infrastructure changes are risk assessed, carefully managed and recorded. Infrastructure is decommissioned ensuring data and infrastructure services are managed off the platform. Availability management ensures infrastructure maintains uptime with data and systems available as agreed with service users. There will be a set of management applications including, crucially network management ensures the technical environment remains suitably isolated.">
+    <bounds
+        x="120"
+        y="552"
+        width="829"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>

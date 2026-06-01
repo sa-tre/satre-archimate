@@ -820,4 +820,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-65030e8f60014222b627854062637046.xml#id-65030e8f60014222b627854062637046"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c2f459ba9f8c471aaf3225686d482cc5"
+      textAlignment="1"
+      content="2.1 End User Computing - End user computing is realised by interfaces and applications providing researchers and data consumers access to data. Changing researcher requirements trigger the application deployment process to update applications and interfaces. The advanced and cluster computing technology service provides resources for advanced analytics capabilities Machine Learning.&#xD;&#xA;&#xD;&#xA;The TRE may contain a single or multiple end user computing environments. Multiple computing interfaces provide familiar and flexible ways for users to interact with data. Interfaces may also provide an opportunity to obfuscate data by allowing the submission of code without providing direct access to the data itself. Tools to version control code support reproducible science. Artifact management applications allow users limited access to external repositories outside the environment.&#xD;&#xA;">
+    <bounds
+        x="240"
+        y="746"
+        width="1009"
+        height="119"/>
+  </children>
 </archimate:ArchimateDiagramModel>

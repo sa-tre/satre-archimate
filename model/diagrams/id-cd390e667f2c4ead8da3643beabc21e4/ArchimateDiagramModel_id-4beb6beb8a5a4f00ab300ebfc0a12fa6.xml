@@ -229,10 +229,10 @@
           href="AssociationRelationship_id-53e45074d623435f8285981ed038e049.xml#id-53e45074d623435f8285981ed038e049"/>
     </sourceConnections>
     <bounds
-        x="204"
-        y="420"
-        width="457"
-        height="181"/>
+        x="684"
+        y="72"
+        width="313"
+        height="301"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-166aa32bc7df45dd8a2cc24f81676413"
@@ -264,8 +264,8 @@
         id="id-af9db7795de040ef96c391728534a501"
         targetConnections="id-fb6542020950469bb5b273299453a8c3">
       <bounds
-          x="324"
-          y="24"
+          x="24"
+          y="96"
           width="120"
           height="55"/>
       <archimateElement
@@ -277,7 +277,7 @@
         id="id-29653608fed041b0949dfaec44001792"
         targetConnections="id-6de9c7cc353f46369326369748012fd1">
       <bounds
-          x="24"
+          x="174"
           y="96"
           width="120"
           height="55"/>
@@ -290,8 +290,8 @@
         id="id-4601691ceada49069f6ba6c78d7cf7e1"
         targetConnections="id-57c7dc1c9b65407faf538982cfb89f54">
       <bounds
-          x="174"
-          y="96"
+          x="24"
+          y="168"
           width="120"
           height="55"/>
       <archimateElement
@@ -303,8 +303,8 @@
         id="id-8aab5e03ad2a45f7a55141368e4fed66"
         targetConnections="id-078c2173cb0247cdb9cdbcea38efbdc6">
       <bounds
-          x="324"
-          y="96"
+          x="168"
+          y="168"
           width="120"
           height="55"/>
       <archimateElement
@@ -314,5 +314,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-58111c58f93642b5a3b37fd48bb8c64e.xml#id-58111c58f93642b5a3b37fd48bb8c64e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b403a5ce80d04245a589cbe2700b3458"
+      textAlignment="1"
+      content="2.7 Vulnerability Management - The ability of the TRE operator to identify, assess, report on, manage and remediate technical vulnerabilities across endpoints, workloads, and systems.&#xD;&#xA;&#xD;&#xA;Security patching pre-emptively fixes vulnerabilities within the system usually automatically utilising software vendor issued updates. Patching may also be triggered by the vulnerability scanning or security testing process. One or more vulnerability management applications serve the processes.">
+    <bounds
+        x="216"
+        y="408"
+        width="781"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>

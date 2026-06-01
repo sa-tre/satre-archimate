@@ -8,8 +8,8 @@
       id="id-dbf6acbf33e84a258b638746920a60b2"
       targetConnections="id-8a3e690977ba4554bbe75fafcc3f06cf id-0416fc61264b4e7fa491a84a46b33bbe id-49e2a22870574ade9841b1fd0614ca4a id-25717040d81d4ab3b31327b9ebf2a9bd">
     <bounds
-        x="456"
-        y="276"
+        x="372"
+        y="24"
         width="709"
         height="287"/>
     <children
@@ -318,8 +318,8 @@
           href="CompositionRelationship_id-ce8eaf3f5eb14576b2c561bb183e7c91.xml#id-ce8eaf3f5eb14576b2c561bb183e7c91"/>
     </sourceConnections>
     <bounds
-        x="132"
-        y="276"
+        x="48"
+        y="24"
         width="304"
         height="287"/>
     <children
@@ -458,8 +458,8 @@
           href="AssociationRelationship_id-42a11e19227e4a53a9cc0628d2d281b1.xml#id-42a11e19227e4a53a9cc0628d2d281b1"/>
     </sourceConnections>
     <bounds
-        x="600"
-        y="612"
+        x="516"
+        y="360"
         width="485"
         height="140"/>
     <children
@@ -504,5 +504,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-b5dccef416b847fd956bde852ba569ff.xml#id-b5dccef416b847fd956bde852ba569ff"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-50985af8053b417cb4c96821f9695a41"
+      textAlignment="1"
+      content="1.1&#x9;Information Governance - What the organisation does to ensure information risk is measured and managed to an acceptable level.&#xD;&#xA;&#xD;&#xA;Information governance requirements are defined by top management within the TRE implementing organisation. These will be draw from the context of the organisation, the work it performs and the nature of the data it processes. Gathering and monitoring these requirements is a key process for ensuring the TRE aligns with the requirements. This requirements processes will trigger the control process which decides actions taken to control risk. Control implementation requires prioritisation and resourcing, resources are allocated through the resource allocation process. The TRE top management must have control of adequate resources to control risk and suitable authority to act. Quality data is a key input to measuring and improving the effectiveness of the TRE in relation to governance, risk and compliance.">
+    <bounds
+        x="72"
+        y="540"
+        width="973"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>

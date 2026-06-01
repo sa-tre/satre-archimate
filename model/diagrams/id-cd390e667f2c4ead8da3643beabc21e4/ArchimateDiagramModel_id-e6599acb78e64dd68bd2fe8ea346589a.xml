@@ -60,23 +60,10 @@
           height="97"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-f25753fe55584b44a1a82d319f42d719"
-          targetConnections="id-ece32b4de150480ba0e121380139d2dd">
-        <bounds
-            x="12"
-            y="24"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-da0ef16df9254c7f9bcaf09e6023c564.xml#id-da0ef16df9254c7f9bcaf09e6023c564"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2f3d204db72c4698b13032679d68c53e"
           targetConnections="id-aec92af8299f4796977ad6a2478a3709">
         <bounds
-            x="144"
+            x="12"
             y="24"
             width="120"
             height="55"/>
@@ -89,13 +76,26 @@
           id="id-61ad123b36664367af93748d0bc1e92d"
           targetConnections="id-f2097567cbc541f18b85d24f52b1a596">
         <bounds
-            x="276"
+            x="144"
             y="24"
             width="120"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-2ecdf6211c8a4966a73d7c0d0c04592c.xml#id-2ecdf6211c8a4966a73d7c0d0c04592c"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-f25753fe55584b44a1a82d319f42d719"
+          targetConnections="id-ece32b4de150480ba0e121380139d2dd">
+        <bounds
+            x="276"
+            y="24"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_id-da0ef16df9254c7f9bcaf09e6023c564.xml#id-da0ef16df9254c7f9bcaf09e6023c564"/>
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"
@@ -236,5 +236,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-e79cd286c5eb426c989f2978240c1c73.xml#id-e79cd286c5eb426c989f2978240c1c73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0bb38ec6f2ce4329ae931bde5e2d5d69"
+      textAlignment="1"
+      content="2.6 Cyber Resilience - The ability of the TRE operator to anticipate, withstand, recover from and adapt to adverse cyber events affecting the confidentiality, integrity and availability of research resources and data.&#xD;&#xA;&#xD;&#xA;Resilience ensures the TRE organisation and infrastructure continues to function when threats are realised, or an incident occurs. Following an incident, the response process is triggered and the organisation reacts to reduce risk. Once the immediate response is complete recovery process is triggered to restore organisation’s services to make data available.">
+    <bounds
+        x="229"
+        y="612"
+        width="528"
+        height="157"/>
   </children>
 </archimate:ArchimateDiagramModel>

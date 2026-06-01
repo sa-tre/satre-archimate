@@ -130,8 +130,8 @@
           href="CompositionRelationship_id-2a904a75084040628a48b0815e6119ef.xml#id-2a904a75084040628a48b0815e6119ef"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="444"
+        x="720"
+        y="168"
         width="332"
         height="205"/>
     <children
@@ -189,5 +189,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-97a1087a06224461b5107a68a1b21d3e.xml#id-97a1087a06224461b5107a68a1b21d3e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bedf38f4392b43629ff658f098de1a79"
+      textAlignment="1"
+      content="1.7 Public Involvement and Engagement - What the organisation does to involve and engage with patients, participants and the public in the design, conduct and oversight of research within the TRE.&#xD;&#xA;&#xD;&#xA;Public involvement and engagement (PIE) within a TRE organisation recognises that the public are key stakeholders in research data use, and that their trust must be actively earned and maintained. This encompasses both the involvement of public members in governance and oversight roles, and the broader engagement of the public with information about TRE operations and research outcomes.&#xD;&#xA;&#xA;Public members may participate directly in TRE governance through advisory panels, lay membership of oversight committees, or structured consultation processes. A Public Engagement Specialist role supports the design and delivery of involvement activities, ensuring these are accessible, meaningful and representative. &#xD;&#xA;&#xD;&#xA;Involvement activities should be documented and their influence on TRE decisions recorded to demonstrate accountability.&#xA; Broader public engagement is achieved through the proactive publication of information about TRE operations, research outputs and data use decisions. This includes disclosure of information governance incidents where appropriate, ensuring the public can make informed judgements about the trustworthiness of the organisation. Publication should be timely, accessible to non-specialist audiences, and maintained as an ongoing commitment rather than a one-off activity.">
+    <bounds
+        x="288"
+        y="432"
+        width="757"
+        height="289"/>
   </children>
 </archimate:ArchimateDiagramModel>

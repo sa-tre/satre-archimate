@@ -393,4 +393,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-c8577db9f1a74a4e88e70d75a69ca355.xml#id-c8577db9f1a74a4e88e70d75a69ca355"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-40bcb8df4e6541be83578ea39e46554c"
+      textAlignment="1"
+      content="3.3 Output Management - The ability of the TRE operator to ensure outputs are safely published and shared.&#xD;&#xA;&#xD;&#xA;The Output Checker role applys disclosure expertise across three interconnected processes. Output Checking is the primary review process, classifying outputs by type and assessing disclosure risk. Where outputs contain statistical or aggregate results, the Statistical Disclosure Control process applies formal techniques, such as suppression and rounding, to reduce re-identification risk. Once approved, the Data Egress process governs the final release, maintaining an auditable record of what left the environment, when, and under whose authority.&#xD;&#xA;&#xD;&#xA;Automated Output Checking tooling supports the Output Checker by surfacing common disclosure risks at scale, increasing consistency and throughput without replacing human judgement on complex or novel cases.">
+    <bounds
+        x="120"
+        y="600"
+        width="781"
+        height="157"/>
+  </children>
 </archimate:ArchimateDiagramModel>

@@ -309,4 +309,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-4fb3013c85bb48969d554287263af884.xml#id-4fb3013c85bb48969d554287263af884"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-96db91a35de043e19d3dfdabfe1c2d98"
+      textAlignment="1"
+      content="3.4 Information Search and Discovery - The ability to query and browse the data within an environment at various levels of abstraction.&#xD;&#xA;&#xD;&#xA;The Data Steward owns and maintains Research Metadata, ensuring it is accurate, complete and conforms to agreed standards. Researchers and Data Consumers use this metadata to locate and evaluate datasets, while the Data Analyst role supports more complex discovery needs, helping interpret data characteristics and assess suitability for specific research questions.&#xD;&#xA;&#xD;&#xA;The Metadata Search and Discovery Application brings these roles and data together, providing a queryable interface through which researchers can search across available datasets, create data queries, and — where appropriate — access abstracted or synthetic representations of data without requiring full secure access. This supports earlier and more efficient study design.">
+    <bounds
+        x="108"
+        y="638"
+        width="769"
+        height="167"/>
+  </children>
 </archimate:ArchimateDiagramModel>
