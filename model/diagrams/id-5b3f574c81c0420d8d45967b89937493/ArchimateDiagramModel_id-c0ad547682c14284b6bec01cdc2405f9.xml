@@ -996,4 +996,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-68467f35e694446c893b4d5520c0d29b.xml#id-68467f35e694446c893b4d5520c0d29b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3999301a73fb4a0c948c1dcab2f05eb2"
+      textAlignment="1"
+      content="5.0 Federation Management - What the federation does to govern, coordinate and operate a federation of TREs that work together to support research across multiple organisations.&#xD;&#xA;&#xD;&#xA;Federation Management extends and adapts the governance, security, infrastructure and operational capabilities already defined in Pillars 1 through 4, applying them in a multi-party context where trust must be established and maintained across organisational boundaries.&#xD;&#xA;&#xD;&#xA;The Federation Information Management system provides the shared information backbone through which federation participants coordinate. Seven capabilities organise the federation extension, each specialising corresponding single-TRE capabilities.&#xD;&#xA;&#xD;&#xA;Federation Governance (5.1) adapts information governance and risk management for a multi-party setting, managing the onboarding of federation members and maintaining the agreements and data that underpin inter-organisational trust.&#xD;&#xA;&#xD;&#xA;Federation Researcher Accreditation (5.2) extends researcher and training management to recognise accreditation granted by other federation members, avoiding duplication while maintaining assurance. &#xD;&#xA;&#xD;&#xA;Federation Study Management (5.3) provides a shared project register enabling studies that span multiple TREs to be tracked and governed consistently.&#xD;&#xA;&#xD;&#xA;Federation Information Security (5.4) extends security, vulnerability management and encryption capabilities to operate across federated boundaries, with Federation Identities as the critical shared data object enabling consistent authentication and authorisation across member TREs. &#xD;&#xA;&#xD;&#xA;Federation Infrastructure Management (5.5) addresses the technical interoperability layer, ensuring compute and storage resources can be coordinated across the federation. &#xD;&#xA;&#xD;&#xA;Federation Data Management (5.6) extends identity and access, output management and data governance to cover cross-boundary data flows and egress. &#xD;&#xA;&#xD;&#xA;Federation Financial Management (5.7) addresses the recharge, cost attribution and financial governance challenges that arise when infrastructure and data are shared across organisations.&#xD;&#xA;">
+    <bounds
+        x="144"
+        y="798"
+        width="1487"
+        height="343"/>
+  </children>
 </archimate:ArchimateDiagramModel>

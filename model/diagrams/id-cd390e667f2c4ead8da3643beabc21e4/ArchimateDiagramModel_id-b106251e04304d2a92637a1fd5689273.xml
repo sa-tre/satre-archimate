@@ -616,11 +616,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-7dc690f404764d47b498437e5b59ccfe"
       textAlignment="1"
-      content="2.2 Infrastructure Management - The ability of the TRE operator to deploy, change or remove physical or virtual infrastructure.&#xD;&#xA;&#xD;&#xA;Infrastructure developers and TRE operators deploy and manage infrastructure within the TRE. Infrastructure is likely to be in part or fully virtualised allowing the automation of deployment processes. The change process ensures infrastructure changes are risk assessed, carefully managed and recorded. Infrastructure is decommissioned ensuring data and infrastructure services are managed off the platform. Availability management ensures infrastructure maintains uptime with data and systems available as agreed with service users. There will be a set of management applications including, crucially network management ensures the technical environment remains suitably isolated.">
+      content="2.2 Infrastructure Management - The ability of the TRE operator to deploy, change or remove physical or virtual infrastructure.&#xD;&#xA;&#xD;&#xA;Infrastructure developers and TRE operators deploy and manage infrastructure within the TRE. Infrastructure is likely to be in part or fully virtualised allowing the automation of deployment processes.&#xD;&#xA;&#xD;&#xA;The change process is triggerd by an improvement activity (e.g. risk reduction or user requirement) and ensures infrastructure changes are risk assessed, carefully managed and recorded. Infrastructure is decommissioned ensuring data and infrastructure services are managed off the platform. Availability management ensures infrastructure maintains uptime with data and systems available as agreed with service users. There will be a set of management applications including, crucially network management ensures the technical environment remains suitably isolated.">
     <bounds
         x="120"
         y="552"
         width="829"
-        height="121"/>
+        height="169"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -820,11 +820,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-930feeb5e73d4889b236616ebd018edb"
       textAlignment="1"
-      content="3.1 Data Lifecycle Management - The ability of the TRE operator to manage how and where data is stored, how it moves, changes and is removed.&#xD;&#xA;&#xD;&#xA;Data lifecycle management processes manage research data throughout the lifecycle of data and studies. Data lifecycle management processes are triggered as research data is moved within the scope of the TRE (IE. data becomes avialable for research). Data sets are classified, ingressed, egressed or moved within the TRE, re-classification may be required as data is changed or data sets combined. Research meta-data is updated by these processes with the data asset register being updated when data ingresses or egresses. One or more data transfer applications serve the ingress and egress processes, and supports a variety of transfer methods and protocols, updating research metadata and logs automatically.&#xD;&#xA;&#xD;&#xA;">
+      content="3.1 Data Lifecycle Management - The ability of the TRE operator to manage how and where data is stored, how it moves, changes and is removed.&#xD;&#xA;&#xD;&#xA;The Information Asset Owner is accountable for data assets, with the Data Steward maintaining day-to-day accuracy of the Data Asset Register and Research Metadata. Researchers and Data Consumers interact with Research Data within the boundaries set by classification and minimisation decisions made upstream.&#xD;&#xA;&#xA;Data Classification is triggered when a new dataset is proposed for ingress, or when a change in regulatory context requires existing assets to be reassessed. Data Ingress is triggered by a request to bring data into the TRE, enforcing controlled and auditable entry of data into the environment. Data Minimisation runs as part of ingress and periodically thereafter, triggered by scheduled review or a change in study scope, ensuring only data necessary for the approved purpose is retained. Data Archiving is triggered by study closure, contract expiry or a scheduled retention review, transitioning data to read-only storage. Data Deletion follows archiving or is triggered directly by an Information Asset Owner instruction or regulatory requirement, with proof of deletion maintained in the register.&#xA;&#xD;&#xA;The Data Transfer Application supports the ingress and egress processes, providing a controlled channel through which data moves across the TRE boundary updating research metadata and logs automatically.&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="84"
         y="612"
         width="937"
-        height="130"/>
+        height="253"/>
   </children>
 </archimate:ArchimateDiagramModel>
