@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Research Data   "
+    name="Research Data"
     id="id-9c4df4788a37435c96b3d2d61d20ec55"
-    documentation="2. Computing technology and Information Security � Standard Architecture for Trusted Research Environments 0.0 documentation">
+    documentation="Consists of the data assets used and produced by research projects within the TRE, including source data, derived datasets and analytical outputs.">
   <properties
       key="Capability 1"
       value="Data Lifecycle Management"/>

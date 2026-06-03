@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Research Metadata   "
+    name="Research Metadata"
     id="id-d56610f9183140df83d2b214815555d7"
-    documentation="3. Data management � Standard Architecture for Trusted Research Environments 0.0 documentation">
+    documentation="Descriptive information about research data, helping researchers understand and manage the data effectively.">
   <properties
       key="Capability 1"
       value="Information Search and Discovery"/>

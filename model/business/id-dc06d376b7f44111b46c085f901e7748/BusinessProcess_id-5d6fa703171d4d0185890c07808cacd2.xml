@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Issue Management Process  "
+    name="Issue Management Process"
     id="id-5d6fa703171d4d0185890c07808cacd2"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#issue-management-process">
+    documentation="Involves a systematic approach to identifying, tracking, resolving, and managing issues or problems that arise within a TRE organisation, aiming to minimize their impact and ensure timely resolution.">
   <properties
       key="Capability 1"
       value="Quality Management"/>

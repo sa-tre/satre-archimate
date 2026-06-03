@@ -268,7 +268,7 @@
     <bounds
         x="516"
         y="204"
-        width="301"
+        width="349"
         height="337"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -290,7 +290,7 @@
       <bounds
           x="161"
           y="36"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Requirement"
@@ -316,7 +316,7 @@
       <bounds
           x="161"
           y="108"
-          width="120"
+          width="140"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Requirement"
@@ -329,7 +329,7 @@
       <bounds
           x="24"
           y="180"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Requirement"
@@ -338,5 +338,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-00669654de0942939b086d22da7c773a.xml#id-00669654de0942939b086d22da7c773a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f0e64a709fb243d28068796c1d862e67"
+      textAlignment="1"
+      content="2.4 Configuration Management - The ability of the TRE operator to identify, record and maintain accurate information on the configuration of IT assets and the relationships between them.&#xD;&#xA;&#xD;&#xA;TRE Builders and Developers create and change the TRE, including the deployment of physical infrastructure, software and code. In order to control risk within the TRE,  configuration of hardware, software and code should be carefully designed and planned through the configuration management processes. Changes to any part of the hardware, infrastrcture or software triggers updates to infrastructure asset data and configuration data. &#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="180"
+        y="564"
+        width="685"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>

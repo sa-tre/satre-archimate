@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1.0 Information Governance"
+    name="1.1 Information Governance"
     id="id-c3371360f3154406b7e8d623657d0aa9"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html">
+    documentation="What the organisation does to ensure information assets are managed, protected and used in accordance with policies, regulations and ethical standards....">
   <properties
       key="Pillar"
       value="Information Governance"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata Search and Discovery Application"
     id="id-066e4bb2dd9c418a84423a19bdb66963"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/data_management.html#meta-data-search-and-discovery-application">
+    documentation="Software designed to help users locate and retrieve specific metadata or information within a database or system.">
   <properties
       key="Capability 1"
       value="Information Search and Discovery"/>

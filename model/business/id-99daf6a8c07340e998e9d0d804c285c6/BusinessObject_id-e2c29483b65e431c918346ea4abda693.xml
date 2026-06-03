@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federation Identities"
+    id="id-e2c29483b65e431c918346ea4abda693"
+    documentation="Consists of identity information for users that is recognised and trusted across the member TREs of a federation."/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.2 Infrastructure Management"
     id="id-412aa162e6534cdd9a4fbb90321c755d"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#infrastructure-management">
+    documentation="The ability of the TRE operator to deploy, change or remove physical or virtual infrastructure.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

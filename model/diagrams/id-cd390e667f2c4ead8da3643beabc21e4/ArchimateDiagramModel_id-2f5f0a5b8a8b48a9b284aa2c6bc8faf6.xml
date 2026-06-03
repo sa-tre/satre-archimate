@@ -239,4 +239,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-54ae1c12b8ca48d7920c14929a67f769.xml#id-54ae1c12b8ca48d7920c14929a67f769"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8b4564cc95b04105926197af398b7621"
+      textAlignment="1"
+      content="2.3 Capacity Management - The ability of the TRE operator to ensure the right amount of resources are available at the right time to provide a cost-effective service.&#xD;&#xA;&#xD;&#xA;Capacity planning looks at patterns of activity, compute and storage requirements in order to determine suitable resources for deployment into the TRE infrastructure. The main control for capacity is finance and billing processes to ensure operational and capital costs can be recovered to ensure the TRE is sustainable and remains available to users. Capacity increases identified in the planning process trigger the billing process and update financial data.">
+    <bounds
+        x="293"
+        y="552"
+        width="632"
+        height="145"/>
+  </children>
 </archimate:ArchimateDiagramModel>

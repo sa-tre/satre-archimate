@@ -352,4 +352,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-7f3e50631315440490d1632f33aca6f6.xml#id-7f3e50631315440490d1632f33aca6f6"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f570aebff3aa47ea953e992445b610c3"
+      textAlignment="1"
+      content="3.2 Identity and Access Management - The ability of the TRE operator to ensure the right people (identities) can only access the tools and data they need.&#xD;&#xA;&#xD;&#xA;Identity and access management processes manage access to data during the data lifecycle. The permission assignment process is triggered by an information asset owner to change permissions for a researcher on research data. This process is served by the access management application. The authentication process identifies users and issues the correct permissions at logon.">
+    <bounds
+        x="240"
+        y="492"
+        width="745"
+        height="121"/>
+  </children>
 </archimate:ArchimateDiagramModel>

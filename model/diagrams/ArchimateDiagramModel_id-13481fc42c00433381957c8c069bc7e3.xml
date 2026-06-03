@@ -26,14 +26,23 @@
           href="RealizationRelationship_id-48e3c8cca57343ab94f57dcbc8544977.xml#id-48e3c8cca57343ab94f57dcbc8544977"/>
     </sourceConnections>
     <bounds
-        x="510"
-        y="696"
+        x="516"
+        y="168"
         width="289"
         height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3b9d1d47768a4c9492939f786685156e"
         targetConnections="id-0586273083de423980221977be03ad4a">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-544c1ff06bb34037928e142b111bb75d"
+          source="id-3b9d1d47768a4c9492939f786685156e"
+          target="id-00c6d6287e284e5d9a527e3fdaa6d787">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-07ae32e6ae9448ecb04e5c4b8023e7c8.xml#id-07ae32e6ae9448ecb04e5c4b8023e7c8"/>
+      </sourceConnections>
       <bounds
           x="84"
           y="24"
@@ -52,8 +61,8 @@
       id="id-1105afe06cd74bf39b6857901a141afd"
       targetConnections="id-c51f2e77b12845c1aa2b3431e4620e9a">
     <bounds
-        x="589"
-        y="600"
+        x="595"
+        y="72"
         width="120"
         height="55"/>
     <archimateElement
@@ -93,8 +102,8 @@
           href="RealizationRelationship_id-6bab5fa1633f4b2791c1720d729e0af9.xml#id-6bab5fa1633f4b2791c1720d729e0af9"/>
     </sourceConnections>
     <bounds
-        x="455"
-        y="840"
+        x="461"
+        y="312"
         width="410"
         height="109"/>
     <children
@@ -127,5 +136,29 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-d62b53c6c41e47e29501653115ac0dd9.xml#id-d62b53c6c41e47e29501653115ac0dd9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7aa825d931ba4fbeb964ca5487381f1c"
+      textAlignment="1"
+      content="SATRE Metamodel&#xD;&#xA;&#xD;&#xA;The decomposition elements of people (actors and roles), processes, data and applications combine to provide an organisation with the ability to fulfil or realise a requirement.&#xD;&#xA;&#xD;&#xA;SATRE specification requriements are associated with the capability and define how it should be delivered safely.&#xD;&#xA;&#xD;&#xA;Business processes are triggered by events such as changes or requests, applications serve those business processes through digitisation and automation with data being read and written programmatically via the application or potentially manually by the operators of the process.">
+    <bounds
+        x="336"
+        y="444"
+        width="637"
+        height="181"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-00c6d6287e284e5d9a527e3fdaa6d787"
+      targetConnections="id-544c1ff06bb34037928e142b111bb75d">
+    <bounds
+        x="853"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-f7916244ed8d49b2ad5f836f9c197ff7.xml#id-f7916244ed8d49b2ad5f836f9c197ff7"/>
   </children>
 </archimate:ArchimateDiagramModel>

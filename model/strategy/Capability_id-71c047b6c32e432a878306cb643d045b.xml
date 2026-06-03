@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.6 Cyber Resilience"
+    id="id-71c047b6c32e432a878306cb643d045b"
+    documentation="The ability of the TRE operator to anticipate, withstand, recover from and adapt to adverse cyber events affecting the confidentiality, integrity and availability of research resources and data."/>

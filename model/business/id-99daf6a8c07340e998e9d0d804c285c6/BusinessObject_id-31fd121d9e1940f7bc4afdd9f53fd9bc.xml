@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Asset Register  "
+    name="Data Asset Register"
     id="id-31fd121d9e1940f7bc4afdd9f53fd9bc"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#data-asset-register">
+    documentation="A database or other electronic record that documents and manages information about the TRE organisation's data assets, including their characteristics, ownership, usage, and other relevant details.">
   <properties
       key="Capability 1"
       value="Study Management"/>

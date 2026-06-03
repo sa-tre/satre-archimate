@@ -418,4 +418,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-d7d0e2400388467983aa52ddc0aee1aa.xml#id-d7d0e2400388467983aa52ddc0aee1aa"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0d3f71dde2b24f948f38ad457512cc1c"
+      textAlignment="1"
+      content="1.6 Training Management and Delivery - Ability to deliver, track and maintain adequate training levels to ensure competence of all people within the TRE organisation.&#xD;&#xA;&#xD;&#xA;Course data is created and maintained by the curriculum creation and management process. Certification is issued as part of the training record following the completion of courses using the learning management system application.&#xD;&#xA;&#xD;&#xA;Competency of people within the TRE is a key control for risk across multiple roles and processes. To ensure competency a training curriculum should be developed with training needs aligned to roles within the TRE. This training should be delivered through a learning management system and certification and training record maintained for users within the TRE. Competency maybe proven through professional qualifications or external training in which case certifications should be accepted when issued by a trusted third party.&#xD;&#xA;">
+    <bounds
+        x="24"
+        y="696"
+        width="721"
+        height="181"/>
+  </children>
 </archimate:ArchimateDiagramModel>

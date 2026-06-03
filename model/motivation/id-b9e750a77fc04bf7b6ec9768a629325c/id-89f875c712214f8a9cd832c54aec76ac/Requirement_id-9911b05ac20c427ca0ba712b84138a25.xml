@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2.5.5. - Test Incident Response Plans"
+    name="2.6.05 - Test Incident Response Plans"
     id="id-9911b05ac20c427ca0ba712b84138a25"
-    documentation="You should test your incident response through simulation."/>
+    documentation="https://satre-specification.readthedocs.io/en/specification.html#satre-2-5-02"/>

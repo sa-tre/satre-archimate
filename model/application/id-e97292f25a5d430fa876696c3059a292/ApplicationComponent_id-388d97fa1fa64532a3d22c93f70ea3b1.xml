@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Electronic Quality Management System Application"
     id="id-388d97fa1fa64532a3d22c93f70ea3b1"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/information_governance.html#quality-management-system-application">
+    documentation="A software application or platform used to manage and automate quality management processes, including document control, corrective actions, audits, and performance tracking.">
   <properties
       key="Capability 1"
       value="Quality Management"/>

@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1.6.2. - Provide Role-Based Training"
+    name="1.6.02 - Provide Role-Based Training"
     id="id-fea133ba5ed64ce49c01d1f760b4ae8d"
-    documentation="You must ensure that relevant training is available for all roles within the TRE organisation."/>
+    documentation="https://satre-specification.readthedocs.io/en/specification.html#satre-1-6-02"/>

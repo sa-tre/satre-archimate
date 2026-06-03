@@ -363,6 +363,15 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-d2d862ce820b46a585abe2e33777a514.xml#id-d2d862ce820b46a585abe2e33777a514"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a635f5221d68437d8cc5490cba63bc6e"
+        source="id-ae01053e8e684631a730a228075d4e15"
+        target="id-556e718d8cd64cb0b5d98da9b591e1f7">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-aa2a38347ec14ae68a63e2f4746a3f96.xml#id-aa2a38347ec14ae68a63e2f4746a3f96"/>
+    </sourceConnections>
     <bounds
         x="756"
         y="204"
@@ -448,6 +457,19 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-556e718d8cd64cb0b5d98da9b591e1f7"
+        targetConnections="id-a635f5221d68437d8cc5490cba63bc6e">
+      <bounds
+          x="144"
+          y="156"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Requirement"
+          href="Requirement_id-c4c08a8bd3874a1e8d6c682615a8ade7.xml#id-c4c08a8bd3874a1e8d6c682615a8ade7"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7eedea31b79f496084ac7d80d87916e4"
         targetConnections="id-37dbe65a7c4c44c9b96b7735258c7d89">
       <bounds
@@ -462,5 +484,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-2c903a5c3b12499b9ab2315c746647c3.xml#id-2c903a5c3b12499b9ab2315c746647c3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-081617197eb6493a870312aa7224a6e9"
+      textAlignment="1"
+      content="1.4 Study Management - What the organisation does to create and maintain research projects and work packages within the TRE.&#xD;&#xA;&#xD;&#xA;A TRE may have a single study or contain many separate studies. Where there are multiple studies, each study must be separately identified logically isolated from others. &#xD;&#xA;&#xD;&#xA;A study (sometimes called a project or work package) has a lifecycle. Beginning with an initial setup to bring a study onboard. Once within the TRE, compliance with internal and external standards must be checked as the project evolves and regulations and policies change.&#xD;&#xA;&#xD;&#xA;The study onboarding process is triggered by the information asset owner. Compliance checks can be triggered by the information asset owner and the onboarding process or through a scheduled event like an audit or change. Study closure is triggered by the information asset owner or a scheduled event such as a contract termination.&#xD;&#xA;&#xD;&#xA;Within the data asset and study register critical information related to the study will be maintained. These meta-data will include study role information, contracts, data management plans and finance information along with links to quality data related to the study held, for example, user permissions and training records.&#xD;&#xA;In order to allow owners and managers to manage their studies data will be provided. Ideally this would be through a portal. The portal can also provide a self-service interface to ensure the study data is correct within the registers.&#xD;&#xA;">
+    <bounds
+        x="144"
+        y="564"
+        width="1033"
+        height="229"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -103,4 +103,15 @@
         xsi:type="archimate:Principle"
         href="Principle_id-02e11cf9cb9b42d98f345db83b5f20dc.xml#id-02e11cf9cb9b42d98f345db83b5f20dc"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b19213e57d4a4f66875910331f59e685"
+      textAlignment="1"
+      content="Architectural principles influence and shape the way you design and deliver a SATRE-aligned TRE. They are a set of guiding considerations that sit above any specific architectural requirement, and can be applied across the entire architecture.&#xD;&#xA;&#xD;&#xA;They consist of the following parts:&#xD;&#xA;&#xD;&#xA;Statement: A singular sentence that summarises the principle&#xD;&#xA;&#xD;&#xA;Rationale: Justification as to why this principle is important for the specification&#xD;&#xA;&#xD;&#xA;Implications: Things you need to consider or do to practise this principle&#xD;&#xA;&#xD;&#xA;https://satre-specification.readthedocs.io/en/latest/principles.html">
+    <bounds
+        x="149"
+        y="427"
+        width="680"
+        height="234"/>
+  </children>
 </archimate:ArchimateDiagramModel>

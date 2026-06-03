@@ -326,4 +326,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-62cfb9ba672c4e86b2927ea096440224.xml#id-62cfb9ba672c4e86b2927ea096440224"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e0f88c6309274445a86b529cc0f1334c"
+      textAlignment="1"
+      content="1.3 Risk Management - What the organisation does to ensure information risk is measured and managed to an acceptable level.&#xD;&#xA;&#xD;&#xA;Risk within the TRE organisation is ultimately owned by the top management with risk ownership for data assets delegated to information asset owners. Risks related to operations are assessed and treated by operational teams.&#xD;&#xA;&#xD;&#xA;Risk ownership involves the understanding of risk appetite within the organisation and agreement to proceed with operations given the current or future risk landscape. The risk assessment process scores risk according to an agreed matrix usually based on likelihood and impact. Once a risk is assessed the risk treatment process is triggered applying both technical, policy and process controls to bring them within accepted tolerances. Where risks fall outside of the automatically accepted tolerances, they will be escalated to risk owners. &#xD;&#xA;">
+    <bounds
+        x="244"
+        y="685"
+        width="825"
+        height="168"/>
+  </children>
 </archimate:ArchimateDiagramModel>

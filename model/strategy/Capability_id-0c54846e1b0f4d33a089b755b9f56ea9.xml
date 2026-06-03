@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.3 Capacity Management"
     id="id-0c54846e1b0f4d33a089b755b9f56ea9"
-    documentation="https://satre-specification.readthedocs.io/en/stable/pillars/computing_technology.html#capacity-planning-process">
+    documentation="The ability of the TRE operator to ensure the right amount of resources are available at the right time to provide a cost-effective service.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

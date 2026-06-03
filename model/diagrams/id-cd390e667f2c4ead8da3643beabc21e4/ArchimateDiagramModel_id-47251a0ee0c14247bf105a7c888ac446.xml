@@ -206,4 +206,15 @@
         xsi:type="archimate:Requirement"
         href="Requirement_id-04efc2406b0441c38084af42781c5cc4.xml#id-04efc2406b0441c38084af42781c5cc4"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d4e3ad187d9b4549a21aac214e25dc20"
+      textAlignment="1"
+      content="2.0 Computing Technology - The ability of the TRE operator to provide and manage the computing infrastructure, devices and services required to deliver a secure research environment.&#xD;&#xA;&#xD;&#xA;Computing technology requirements are defined by top management within the TRE organisation in collaboration with TRE operators and developers and researchers themselves. Requirements are drawn from information governance requirements which primarily specify the controls needed within the technical and computing infrastructure. Researcher personas influence them according to the technical knowledge and experience of researchers along with the work they need to perform within the system, for example, a data scientist will have very different requirements to a clinician. The required compute resources will vary according to the scale of data and computational techniques employed during research.">
+    <bounds
+        x="108"
+        y="597"
+        width="853"
+        height="160"/>
+  </children>
 </archimate:ArchimateDiagramModel>

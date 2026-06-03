@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2.5.17. - Introduce Physical Security Measures"
+    name="2.9.01 - Physical Security Measures"
     id="id-8cda043dd03b4346957bc9ab6eedc974"
-    documentation="Your TRE could offer physical protection measures against data leakage or theft via physical means."/>
+    documentation="https://satre-specification.readthedocs.io/en/specification.html#satre-2-9-01"/>

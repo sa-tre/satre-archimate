@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Federation Operator   "
-    id="id-d9b856015b2b4e06b038d24381da9aa8"/>
+    name="Federation Operator"
+    id="id-d9b856015b2b4e06b038d24381da9aa8"
+    documentation="A role responsible for coordinating and operating the shared services, governance and processes of a federation of TREs."/>
