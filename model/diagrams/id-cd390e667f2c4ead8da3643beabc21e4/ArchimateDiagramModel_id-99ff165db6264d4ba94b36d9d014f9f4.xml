@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.5 Information Security"
-    id="id-99ff165db6264d4ba94b36d9d014f9f4">
+    id="id-99ff165db6264d4ba94b36d9d014f9f4"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-35808ca01a83410688c7d4ebacff038e"

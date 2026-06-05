@@ -241,7 +241,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0bb38ec6f2ce4329ae931bde5e2d5d69"
       textAlignment="1"
-      content="2.6 Cyber Resilience - The ability of the TRE operator to anticipate, withstand, recover from and adapt to adverse cyber events affecting the confidentiality, integrity and availability of research resources and data.&#xD;&#xA;&#xD;&#xA;Resilience ensures the TRE organisation and infrastructure continues to function when threats are realised, or an incident occurs. Following an incident, the response process is triggered and the organisation reacts to reduce risk. Once the immediate response is complete recovery process is triggered to restore organisation’s services to make data available.">
+      content="2.6 Cyber Resilience - The ability of the TRE operator to anticipate, withstand, recover from and adapt to adverse cyber events affecting the confidentiality, integrity and availability of research resources and data.&#xD;&#xA;&#xD;&#xA;The resilience process ensures the TRE organisation and infrastructure continues to function when threats are realised, or an incident occurs. Following an incident, the response process is triggered and the organisation reacts to reduce risk. Once the immediate response is complete recovery process is triggered to restore organisation’s services to normal operation.">
     <bounds
         x="229"
         y="612"

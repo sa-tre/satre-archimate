@@ -309,7 +309,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-9182f0ac981a43a7a678500fd2a5e7b5"
       textAlignment="1"
-      content="2.8 Encryption - The ability of the TRE operator to deploy and manage encryption to protect information assets, including data for TRE research projects.&#xD;&#xA;&#xD;&#xA;The encryption process is triggered when data is ingressed, egressed or moved within the TRE to ensure it is securely transmitted or stored. The key management application serves the encryption process and updates the encryption key data.&#xD;&#xA;">
+      content="2.8 Encryption - The ability of the TRE operator to deploy and manage encryption to protect information assets, including data for TRE research projects.&#xD;&#xA;&#xD;&#xA;The encryption process is triggered when data is ingressed, egressed or moved within the TRE to ensure it is securely transmitted or stored. The key management application serves the encryption process storing, updating and controlling encryption key data.&#xD;&#xA;">
     <bounds
         x="156"
         y="552"

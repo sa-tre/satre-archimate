@@ -782,4 +782,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-e0c89ff6e1574149b431352de3d31771.xml#id-e0c89ff6e1574149b431352de3d31771"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d770069517c34e84ab3c8c0f45caac25"
+      textAlignment="1"
+      content="4.x - Supporting Capabilities - Additional capabilities required across the broader organisation to support the TRE">
+    <bounds
+        x="372"
+        y="997"
+        width="612"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
