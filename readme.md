@@ -1,7 +1,11 @@
 ## SATRE Architecture
 
 
-The current version of the architecture can be viewed on [the main SATRE specification site](https://satre-specification.readthedocs.io/en/stable/architecture.html)
+The current version of the architecture can be viewed on [the architecture viewer](https://satre-archimate.readthedocs.io/en/latest/?view=id-4349bc52159b48e9b785e9809a876c03).
+
+You can also explore the specification on the [SATRE Specification site](https://satre-specification.readthedocs.io/).
+
+Reference this work via the [DOI on Zenodo](https://doi.org/10.5281/zenodo.10053383)
 
  Standard Architecture for Trusted Research Environments (TREs) provides a comprehensive high-level architecture for research organisations handling sensitive data safely. The architecture is documented using the ArchiMate modelling language with models created using the open source modelling tool [Archi](https://www.archimatetool.com/).
 
