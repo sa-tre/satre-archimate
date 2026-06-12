@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.3.06 - Apply Statistical Disclosure Methods"
+    name="3.3.06 - Statistical Based Decisions"
     id="id-e5add57c749e4c02809753c1fdd8ba44"
-    documentation="https://satre-specification.readthedocs.io/en/specification.html#satre-3-3-06"/>
+    documentation="https://satre-specification.readthedocs.io/en/v2.0.0/specification.html#satre-3-3-06"/>

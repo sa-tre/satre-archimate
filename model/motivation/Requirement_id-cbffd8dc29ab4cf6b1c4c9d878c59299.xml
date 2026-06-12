@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2.7.01 - Scan for Infrastructure Vulnerabilities"
-    id="id-c59367b531ec499c8617e4d4ead5f8c8"
+    name="2.5.03 - Retain Security Logs"
+    id="id-cbffd8dc29ab4cf6b1c4c9d878c59299"
     documentation="https://satre-specification.readthedocs.io/en/v2.0.0/specification.html#satre-2-5-03"/>
