@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.5 Information Security"
-    id="id-99ff165db6264d4ba94b36d9d014f9f4"
-    viewpoint="application_cooperation">
+    id="id-99ff165db6264d4ba94b36d9d014f9f4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-35808ca01a83410688c7d4ebacff038e"
@@ -638,6 +637,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-0d69af2643a446868228806ad5bf0e82.xml#id-0d69af2643a446868228806ad5bf0e82"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-42f3f0c1b91647eba4bfe1fbecad6aaf"
+        source="id-4cd64d5809074a0095be1455c6032e2f"
+        target="id-fb26ba6f42eb4c2189518bf4e0c37e1d">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-e21be3182b9c43f8af9f0fd2f69c2776.xml#id-e21be3182b9c43f8af9f0fd2f69c2776"/>
+    </sourceConnections>
     <bounds
         x="1116"
         y="192"
@@ -649,7 +657,7 @@
         targetConnections="id-28785d9ab2644faea83bc88e7d26204a">
       <bounds
           x="24"
-          y="264"
+          y="324"
           width="120"
           height="55"/>
       <archimateElement
@@ -681,6 +689,19 @@
       <archimateElement
           xsi:type="archimate:Requirement"
           href="Requirement_id-79cf5d1c656d461ea2c8639b8ad3fcca.xml#id-79cf5d1c656d461ea2c8639b8ad3fcca"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-fb26ba6f42eb4c2189518bf4e0c37e1d"
+        targetConnections="id-42f3f0c1b91647eba4bfe1fbecad6aaf">
+      <bounds
+          x="24"
+          y="252"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Requirement"
+          href="Requirement_id-cbffd8dc29ab4cf6b1c4c9d878c59299.xml#id-cbffd8dc29ab4cf6b1c4c9d878c59299"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

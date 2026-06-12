@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.01 - Monitor Governance Requirements"
     id="id-700932dfc9204438aba841fe76899e86"
-    documentation="https://satre-specification.readthedocs.io/en/specification.html#satre-1-1-01">
+    documentation="https://satre-specification.readthedocs.io/en/v2.0.0/specification.html#satre-1-1-01">
   <properties
       key="Statement"
       value="You must gather and monitor the information governance requirements needed to fulfil any legal, regulatory and ethical standards."/>

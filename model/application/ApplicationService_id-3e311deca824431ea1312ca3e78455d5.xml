@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SATRE Application Service"
     id="id-3e311deca824431ea1312ca3e78455d5"
-    documentation="https://satre-specification.readthedocs.io/en/stable/architecture.html"/>
+    documentation="https://satre-specification.readthedocs.io/en/v2.0.0/stable/architecture.html"/>
